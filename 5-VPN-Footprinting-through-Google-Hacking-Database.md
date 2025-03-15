@@ -1,0 +1,1 @@
+![dfaafadf.JPG](../../../_resources/dfaafadf.JPG)
