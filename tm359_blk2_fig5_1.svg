@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="text_outlines" xmlns="http://www.w3.org/2000/svg" width="822.823" height="564.331" viewBox="0 0 822.823 564.331">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #396289;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke: #1f1e21;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6, .cls-8, .cls-9, .cls-10 {
+        stroke-width: .235px;
+      }
+
+      .cls-2 {
+        stroke-width: .239px;
+      }
+
+      .cls-2, .cls-3, .cls-11 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 1.273px;
+      }
+
+      .cls-4 {
+        fill: #005237;
+      }
+
+      .cls-12 {
+        fill: #a1b8a7;
+        stroke: #005237;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        stroke-width: .318px;
+      }
+
+      .cls-11 {
+        stroke-width: .115px;
+      }
+
+      .cls-11, .cls-18 {
+        stroke: #fff;
+      }
+
+      .cls-18 {
+        font-size: 4.598px;
+        stroke-miterlimit: 10;
+        stroke-width: .08px;
+      }
+
+      .cls-18, .cls-19, .cls-20 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-18, .cls-21, .cls-22, .cls-23 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #00579a;
+      }
+
+      .cls-19 {
+        font-size: 3.982px;
+      }
+
+      .cls-19, .cls-20, .cls-7 {
+        fill: #1f1e21;
+      }
+
+      .cls-20 {
+        font-size: 3.982px;
+      }
+
+      .cls-13 {
+        fill: #bed1ea;
+        stroke: #1e85c5;
+      }
+
+      .cls-14 {
+        fill: #c6c5e0;
+        stroke: #696eaa;
+      }
+
+      .cls-6 {
+        fill: #0097c0;
+      }
+
+      .cls-7 {
+        stroke-width: .328px;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #1e85c5;
+      }
+
+      .cls-22 {
+        font-size: 4.778px;
+      }
+
+      .cls-22, .cls-27 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-15 {
+        fill: #c3deda;
+        stroke: #259c95;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        fill: #b3bcd9;
+        stroke: #00579a;
+      }
+
+      .cls-9 {
+        fill: #259c95;
+      }
+
+      .cls-30 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-31 {
+        fill: #bac0d1;
+        stroke: #396289;
+        stroke-width: .286px;
+      }
+
+      .cls-32 {
+        letter-spacing: -.111em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.111em;
+      }
+
+      .cls-34 {
+        letter-spacing: -.111em;
+      }
+
+      .cls-35 {
+        letter-spacing: -.018em;
+      }
+
+      .cls-36 {
+        letter-spacing: -.018em;
+      }
+
+      .cls-37 {
+        letter-spacing: -.018em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.018em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.018em;
+      }
+
+      .cls-40 {
+        letter-spacing: -.018em;
+      }
+
+      .cls-41 {
+        letter-spacing: -.055em;
+      }
+
+      .cls-42 {
+        letter-spacing: -.055em;
+      }
+
+      .cls-43 {
+        letter-spacing: -.037em;
+      }
+
+      .cls-44 {
+        letter-spacing: -.037em;
+      }
+
+      .cls-45 {
+        letter-spacing: -.037em;
+      }
+
+      .cls-10 {
+        fill: #465398;
+      }
+
+      .cls-23 {
+        font-size: 3.941px;
+      }
+
+      .cls-17 {
+        fill: #c1dae8;
+        stroke: #0097c0;
+      }
+    </style>
+  </defs>
+  <rect class="cls-21" width="822.823" height="564.331"/>
+  <line class="cls-2" x1="204.666" y1="478.026" x2="216.582" y2="478.026"/>
+  <line class="cls-2" x1="204.666" y1="527.131" x2="226.225" y2="527.131"/>
+  <line class="cls-2" x1="204.666" y1="501.692" x2="220.738" y2="501.692"/>
+  <line class="cls-2" x1="204.666" y1="552.404" x2="207.16" y2="552.404"/>
+  <line class="cls-2" x1="204.628" y1="452.753" x2="221.916" y2="452.753"/>
+  <g>
+    <line class="cls-2" x1="595.32" y1="119.399" x2="586.733" y2="119.399"/>
+    <g>
+      <path class="cls-5" d="M519.373,115.289h67.847c.403,0,.73.426.73.951v6.649c0,.525-.327.951-.73.951h-67.847"/>
+      <path class="cls-5" d="M519.402,115.289h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+      <line class="cls-11" x1="519.389" y1="115.748" x2="519.389" y2="123.38"/>
+      <text class="cls-18" transform="translate(514.078 120.704)"><tspan x="0" y="0">1</tspan></text>
+      <text class="cls-22" transform="translate(521.979 120.704)"><tspan x="0" y="0">Network scanning concepts</tspan></text>
+    </g>
+    <path class="cls-2" d="M680.01,77.558c-1.953,0-3.537-1.584-3.537-3.537v-12.112c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M627.897,67.926c-1.953,0-3.537-1.584-3.537-3.537V29.937"/>
+    <path class="cls-16" d="M714.19,61.788c2.033,0,3.681-1.584,3.681-3.537s-1.648-3.537-3.681-3.537h-30.481c-2.033,0-3.681,1.584-3.681,3.537s1.648,3.537,3.681,3.537h30.481Z"/>
+    <path class="cls-16" d="M706.922,71.408c2.113,0,3.825-1.584,3.825-3.537s-1.713-3.537-3.825-3.537h-23.063c-2.113,0-3.825,1.584-3.825,3.537s1.713,3.537,3.825,3.537h23.063Z"/>
+    <text class="cls-19" transform="translate(683.231 59.477)"><tspan x="0" y="0">Network scanning</tspan></text>
+    <text class="cls-19" transform="translate(683.336 69.144)"><tspan x="0" y="0">Port scanning</tspan></text>
+    <path class="cls-16" d="M721.033,81.028c2.033,0,3.681-1.584,3.681-3.537s-1.648-3.537-3.681-3.537h-37.324c-2.033,0-3.681,1.584-3.681,3.537,0,1.953,1.648,3.537,3.681,3.537h37.324Z"/>
+    <text class="cls-19" transform="translate(683.336 78.764)"><tspan class="cls-45" x="0" y="0">V</tspan><tspan x="2.508" y="0">ulnerability scanning</tspan></text>
+    <line class="cls-2" x1="679.886" y1="67.877" x2="666.867" y2="67.877"/>
+    <path class="cls-16" d="M663.191,71.408c2.03,0,3.675-1.584,3.675-3.537,0-1.953-1.646-3.537-3.675-3.537h-31.507c-2.03,0-3.675,1.584-3.675,3.537,0,1.953,1.646,3.537,3.675,3.537h31.507Z"/>
+    <text class="cls-19" transform="translate(631.597 69.066)"><tspan class="cls-41" x="0" y="0">T</tspan><tspan x="2.212" y="0">ypes of scanning</tspan></text>
+    <path class="cls-2" d="M664.593,133.814c-1.953,0-3.537-1.584-3.537-3.537v-21.951c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M664.593,143.312c-1.953,0-3.537-1.584-3.537-3.537v-21.951"/>
+    <path class="cls-2" d="M661.056,120.023v-21.951c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M664.593,124.029c-1.953,0-3.537-1.584-3.537-3.537v-2.539c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-16" d="M702.229,98.584c1.992,0,3.607-1.584,3.607-3.537s-1.615-3.537-3.607-3.537h-34.014c-1.992,0-3.607,1.584-3.607,3.537s1.615,3.537,3.607,3.537h34.014Z"/>
+    <path class="cls-16" d="M713.355,108.204c2.001,0,3.623-1.584,3.623-3.537s-1.622-3.537-3.623-3.537h-45.124c-2.001,0-3.623,1.584-3.623,3.537s1.622,3.537,3.623,3.537h45.124Z"/>
+    <path class="cls-16" d="M689.261,117.824c2.063,0,3.735-1.584,3.735-3.537s-1.672-3.537-3.735-3.537h-20.913c-2.063,0-3.735,1.584-3.735,3.537,0,1.953,1.672,3.537,3.735,3.537h20.913Z"/>
+    <text class="cls-19" transform="translate(668.069 96.326)"><tspan x="0" y="0">SYN – Synchronise</tspan></text>
+    <text class="cls-19" transform="translate(668.075 105.935)"><tspan x="0" y="0">ACK –</tspan><tspan class="cls-41" x="11.508" y="0"> </tspan><tspan x="12.395" y="0">Acknowledgement</tspan></text>
+    <text class="cls-19" transform="translate(668.069 115.602)"><tspan x="0" y="0">FIN – Finish</tspan></text>
+    <path class="cls-16" d="M690.86,127.444c1.997,0,3.616-1.584,3.616-3.537,0-1.953-1.619-3.537-3.616-3.537h-22.637c-1.997,0-3.616,1.584-3.616,3.537s1.619,3.537,3.616,3.537h22.637Z"/>
+    <text class="cls-19" transform="translate(668.069 125.221)"><tspan x="0" y="0">RS</tspan><tspan class="cls-37" x="5.532" y="0">T</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> – Reset</tspan></text>
+    <path class="cls-16" d="M693.149,137.064c1.988,0,3.599-1.584,3.599-3.537s-1.611-3.537-3.599-3.537h-24.943c-1.988,0-3.599,1.584-3.599,3.537s1.611,3.537,3.599,3.537h24.943Z"/>
+    <path class="cls-16" d="M689.325,146.684c1.992,0,3.606-1.584,3.606-3.537,0-1.953-1.614-3.537-3.606-3.537h-21.112c-1.992,0-3.606,1.584-3.606,3.537,0,1.953,1.614,3.537,3.606,3.537h21.112Z"/>
+    <text class="cls-19" transform="translate(668.069 134.806)"><tspan x="0" y="0">URG – Urgent</tspan></text>
+    <text class="cls-19" transform="translate(668.069 144.415)"><tspan x="0" y="0">PSH – Push</tspan></text>
+    <line class="cls-2" x1="661.056" y1="119.052" x2="613.432" y2="119.052"/>
+    <path class="cls-2" d="M594.732,154.68c-1.953,0-3.537-1.584-3.537-3.537v-79.27"/>
+    <line class="cls-2" x1="651.811" y1="154.011" x2="641.881" y2="154.011"/>
+    <path class="cls-16" d="M643.203,122.566c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-44.922c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h44.922Z"/>
+    <path class="cls-16" d="M638.206,157.548c2.03,0,3.675-1.584,3.675-3.537s-1.646-3.537-3.675-3.537h-39.781c-2.03,0-3.675,1.584-3.675,3.537,0,1.953,1.646,3.537,3.675,3.537h39.781Z"/>
+    <path class="cls-2" d="M700.707,41.116c-1.953,0-3.537-1.584-3.537-3.537V15.628c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M700.707,31.331c-1.953,0-3.537-1.584-3.537-3.537v-2.539c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-16" d="M811.877,15.507c2.033,0,3.681-1.584,3.681-3.537s-1.648-3.537-3.681-3.537h-107.471c-2.033,0-3.681,1.584-3.681,3.537s1.648,3.537,3.681,3.537h107.471Z"/>
+    <path class="cls-16" d="M796.056,25.127c2.113,0,3.825-1.584,3.825-3.537s-1.713-3.537-3.825-3.537h-91.499c-2.113,0-3.825,1.584-3.825,3.537s1.713,3.537,3.825,3.537h91.499Z"/>
+    <text class="cls-19" transform="translate(704.026 13.196)"><tspan x="0" y="0">Discover live hosts, I</tspan><tspan class="cls-37" x="36.512" y="0">P</tspan><tspan x="39.096" y="0" xml:space="preserve"> addresses and open ports of live hosts</tspan></text>
+    <text class="cls-19" transform="translate(704.033 22.863)"><tspan x="0" y="0">Discover operating systems and system architecture</tspan></text>
+    <path class="cls-16" d="M765.256,34.747c2.033,0,3.681-1.584,3.681-3.537s-1.648-3.537-3.681-3.537h-60.85c-2.033,0-3.681,1.584-3.681,3.537,0,1.953,1.648,3.537,3.681,3.537h60.85Z"/>
+    <text class="cls-19" transform="translate(704.033 32.483)"><tspan x="0" y="0">Discover services running on hosts</tspan></text>
+    <path class="cls-16" d="M760.449,44.367c2.033,0,3.681-1.584,3.681-3.537s-1.648-3.537-3.681-3.537h-56.043c-2.033,0-3.681,1.584-3.681,3.537s1.648,3.537,3.681,3.537h56.043Z"/>
+    <text class="cls-19" transform="translate(704.033 42.068)"><tspan x="0" y="0">Discover vulnerabilities on hosts</tspan></text>
+    <line class="cls-2" x1="697.17" y1="26.355" x2="689.092" y2="26.355"/>
+    <line class="cls-2" x1="663.946" y1="26.4" x2="654.164" y2="26.4"/>
+    <path class="cls-16" d="M650.489,29.937c2.03,0,3.675-1.584,3.675-3.537,0-1.953-1.646-3.537-3.675-3.537h-51.615c-2.03,0-3.675,1.584-3.675,3.537,0,1.953,1.646,3.537,3.675,3.537h51.615Z"/>
+    <text class="cls-19" transform="translate(597.802 27.594)"><tspan x="0" y="0">Overview of network scanning</tspan></text>
+    <path class="cls-2" d="M591.195,151.144V30.352c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-16" d="M685.555,29.937c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-18.073c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h18.073Z"/>
+    <text class="cls-19" transform="translate(667.514 27.666)"><tspan x="0" y="0">Objectives</tspan></text>
+    <path class="cls-16" d="M702.264,157.548c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-48.245c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h48.245Z"/>
+    <text class="cls-19" transform="translate(654.05 155.277)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> session establishment</tspan></text>
+    <line class="cls-2" x1="715.843" y1="154.011" x2="705.913" y2="154.011"/>
+    <path class="cls-16" d="M798.286,157.548c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-80.234c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h80.234Z"/>
+    <text class="cls-19" transform="translate(718.083 155.277)"><tspan x="0" y="0">Three-way handshake: SYN, SYN+ACK,</tspan><tspan class="cls-41" x="71.819" y="0"> </tspan><tspan x="72.706" y="0">ACK</tspan></text>
+    <text class="cls-19" transform="translate(598.169 120.37)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> communication flags</tspan></text>
+    <text class="cls-19" transform="translate(598.169 155.345)"><tspan x="0" y="0">TCP/I</tspan><tspan class="cls-40" x="10.176" y="0">P</tspan><tspan class="cls-25" x="12.761" y="0" xml:space="preserve"> communication</tspan></text>
+  </g>
+  <g>
+    <g>
+      <path class="cls-4" d="M528.098,323.591h39.326c.536,0,.971.426.971.951v6.649c0,.525-.435.951-.971.951h-39.326"/>
+      <path class="cls-4" d="M528.127,323.591h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+      <line class="cls-11" x1="528.113" y1="324.051" x2="528.113" y2="331.682"/>
+      <text class="cls-18" transform="translate(522.803 329.006)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-22" transform="translate(530.705 329.006)"><tspan x="0" y="0">Host discovery</tspan></text>
+    </g>
+    <path class="cls-2" d="M671.704,338.519c-1.953,0-3.537-1.584-3.537-3.537v-2.539c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M623.557,333.713c-1.953,0-3.537-1.584-3.537-3.537v-46.428c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-12" d="M652.595,293.558c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.49c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h25.49Z"/>
+    <text class="cls-19" transform="translate(626.513 291.43)"><tspan x="0" y="0">UD</tspan><tspan class="cls-37" x="5.751" y="0">P</tspan><tspan class="cls-25" x="8.335" y="0" xml:space="preserve"> ping scan</tspan></text>
+    <path class="cls-12" d="M652.306,283.748c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.201c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h25.201Z"/>
+    <line class="cls-2" x1="668.167" y1="333.788" x2="656.399" y2="333.788"/>
+    <text class="cls-19" transform="translate(626.519 281.177)"><tspan x="0" y="0">AR</tspan><tspan class="cls-37" x="5.532" y="0">P</tspan><tspan class="cls-25" x="8.116" y="0" xml:space="preserve"> ping scan</tspan></text>
+    <path class="cls-12" d="M654.075,337.4c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-26.97c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h26.97Z"/>
+    <text class="cls-19" transform="translate(626.513 335.315)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> ping scans</tspan></text>
+    <path class="cls-2" d="M576.319,356.035c-1.953,0-3.537-1.584-3.537-3.537v-49.359c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-12" d="M605.624,302.956c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537l-25.956.105c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537l25.956-.105Z"/>
+    <line class="cls-2" x1="623.248" y1="356.175" x2="612.04" y2="356.175"/>
+    <text class="cls-19" transform="translate(579.187 300.525)"><tspan class="cls-41" x="0" y="0">T</tspan><tspan x="2.212" y="0">ypes of scans</tspan></text>
+    <path class="cls-12" d="M609.699,359.559c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-29.784c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h29.784Z"/>
+    <text class="cls-19" transform="translate(579.673 356.976)"><tspan x="0" y="0">Ping sweep tools</tspan></text>
+    <line class="cls-2" x1="572.815" y1="327.866" x2="568.403" y2="327.866"/>
+    <path class="cls-12" d="M701.074,332.444c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.833c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h25.833Z"/>
+    <text class="cls-19" transform="translate(675.752 329.908)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> SYN ping</tspan></text>
+    <path class="cls-12" d="M701.327,342.056c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-26.086c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h26.086Z"/>
+    <text class="cls-19" transform="translate(675.752 339.474)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-41" x="7.892" y="0"> </tspan><tspan x="8.779" y="0">ACK ping</tspan></text>
+    <path class="cls-2" d="M623.248,365.787c-1.953,0-3.537-1.584-3.537-3.537v-12.151c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-12" d="M656.283,350.099c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-29.498c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h29.498Z"/>
+    <text class="cls-19" transform="translate(626.516 347.563)"><tspan x="0" y="0">Angry I</tspan><tspan class="cls-37" x="12.615" y="0">P</tspan><tspan x="15.199" y="0" xml:space="preserve"> scanner</tspan></text>
+    <path class="cls-12" d="M657.678,359.712c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-30.893c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h30.893Z"/>
+    <text class="cls-19" transform="translate(626.519 357.544)"><tspan x="0" y="0">NetScan</tspan><tspan class="cls-33" x="15.272" y="0">T</tspan><tspan x="17.264" y="0">ools Pro</tspan></text>
+    <path class="cls-12" d="M656.283,369.324c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-29.498c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h29.498Z"/>
+    <text class="cls-19" transform="translate(626.519 367.157)"><tspan class="cls-37" x="0" y="0">V</tspan><tspan x="2.584" y="0">isual ping tester</tspan></text>
+    <line class="cls-2" x1="717.329" y1="299.602" x2="695.929" y2="299.602"/>
+    <path class="cls-2" d="M672.103,318.795c-1.953,0-3.537-1.584-3.537-3.537v-12.151c0-1.953,1.584-3.537,3.537-3.537"/>
+    <line class="cls-2" x1="672.103" y1="309.183" x2="650.703" y2="309.183"/>
+    <path class="cls-12" d="M706.762,303.107c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-31.122c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h31.122Z"/>
+    <text class="cls-19" transform="translate(675.784 300.571)"><tspan x="0" y="0">ICM</tspan><tspan class="cls-37" x="7.299" y="0">P</tspan><tspan x="9.883" y="0" xml:space="preserve"> ECHO ping</tspan></text>
+    <path class="cls-12" d="M713.585,312.72c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-37.945c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h37.945Z"/>
+    <text class="cls-19" transform="translate(675.752 310.636)"><tspan x="0" y="0">ICM</tspan><tspan class="cls-37" x="7.299" y="0">P</tspan><tspan x="9.883" y="0" xml:space="preserve"> timestamp ping</tspan></text>
+    <path class="cls-12" d="M761.81,303.139c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-40.944c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h40.944Z"/>
+    <text class="cls-19" transform="translate(720.978 300.861)"><tspan x="0" y="0">ICM</tspan><tspan class="cls-37" x="7.299" y="0">P</tspan><tspan x="9.883" y="0" xml:space="preserve"> Echo ping sweep</tspan></text>
+    <path class="cls-12" d="M719.696,322.332c1.972,0,3.57-1.584,3.57-3.537s-1.598-3.537-3.57-3.537h-44.021c-1.972,0-3.57,1.584-3.57,3.537,0,1.953,1.598,3.537,3.57,3.537h44.021Z"/>
+    <text class="cls-19" transform="translate(675.784 320.334)"><tspan x="0" y="0">ICM</tspan><tspan class="cls-37" x="7.299" y="0">P</tspan><tspan x="9.883" y="0" xml:space="preserve"> address mask ping</tspan></text>
+    <path class="cls-2" d="M623.594,309.183c-1.953,0-3.537-1.584-3.537-3.537v-12.088c0-1.953,1.584-3.537,3.537-3.537"/>
+    <line class="cls-2" x1="623.594" y1="299.471" x2="609.161" y2="299.471"/>
+    <path class="cls-12" d="M663.324,303.107c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-36.193c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h36.193Z"/>
+    <text class="cls-19" transform="translate(626.513 300.861)"><tspan x="0" y="0">I</tspan><tspan class="cls-37" x="1.106" y="0">P</tspan><tspan class="cls-25" x="3.69" y="0" xml:space="preserve"> protocol ping scan</tspan></text>
+    <path class="cls-12" d="M647.167,312.72c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-20.035c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h20.035Z"/>
+    <text class="cls-19" transform="translate(626.513 310.635)"><tspan x="0" y="0">ICM</tspan><tspan class="cls-37" x="7.299" y="0">P</tspan><tspan x="9.883" y="0" xml:space="preserve"> scans</tspan></text>
+  </g>
+  <g>
+    <g>
+      <path class="cls-8" d="M528.098,198.419h40.073c.525,0,.951.426.951.951v6.649c0,.525-.426.951-.951.951h-40.073"/>
+      <path class="cls-8" d="M528.127,198.419h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+      <line class="cls-11" x1="528.113" y1="198.879" x2="528.113" y2="206.511"/>
+      <text class="cls-18" transform="translate(522.803 203.835)"><tspan x="0" y="0">2</tspan></text>
+      <text class="cls-22" transform="translate(530.704 203.835)"><tspan x="0" y="0">Scanning tools</tspan></text>
+    </g>
+    <line class="cls-2" x1="636.047" y1="186.117" x2="627.849" y2="186.117"/>
+    <path class="cls-2" d="M580.814,219.721c-1.953,0-3.537-1.584-3.537-3.537v-26.958c0-1.953,1.584-3.537,3.537-3.537"/>
+    <line class="cls-2" x1="577.277" y1="202.705" x2="569.079" y2="202.705"/>
+    <path class="cls-13" d="M624.493,189.438c1.945,0,3.522-1.584,3.522-3.537,0-1.953-1.577-3.537-3.522-3.537h-40.157c-1.945,0-3.522,1.584-3.522,3.537,0,1.953,1.577,3.537,3.522,3.537h40.157Z"/>
+    <path class="cls-13" d="M621.732,223.958c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-37.381c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h37.381Z"/>
+    <text class="cls-19" transform="translate(583.904 187.324)"><tspan x="0" y="0">Network scanning tools</tspan></text>
+    <text class="cls-19" transform="translate(583.904 221.81)"><tspan x="0" y="0">Mobile scanning tools</tspan></text>
+    <path class="cls-2" d="M639.584,200.614c-1.953,0-3.537-1.584-3.537-3.537v-9.62"/>
+    <path class="cls-2" d="M639.584,190.994c-1.953,0-3.537-1.584-3.537-3.537v-12.166c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M636.047,187.457v-2.546c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-13" d="M677.156,175.291c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-34.035c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h34.035Z"/>
+    <path class="cls-13" d="M668.491,184.911c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.37c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h25.37Z"/>
+    <path class="cls-13" d="M660.786,194.531c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-17.665c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h17.665Z"/>
+    <text class="cls-19" transform="translate(642.675 172.72)"><tspan x="0" y="0">NMA</tspan><tspan class="cls-39" x="8.849" y="0">P</tspan><tspan x="11.433" y="0" xml:space="preserve"> and Zenmap</tspan></text>
+    <text class="cls-19" transform="translate(642.675 182.328)"><tspan x="0" y="0">Hping2/Hping3</tspan></text>
+    <text class="cls-19" transform="translate(642.675 191.995)"><tspan x="0" y="0">Metasploit</tspan></text>
+    <path class="cls-13" d="M673.658,204.151c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-30.537c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h30.537Z"/>
+    <text class="cls-19" transform="translate(642.675 201.615)"><tspan x="0" y="0">NetScan</tspan><tspan class="cls-32" x="15.272" y="0">T</tspan><tspan x="17.264" y="0">ools Pro</tspan></text>
+    <line class="cls-2" x1="633.115" y1="220.559" x2="625.601" y2="220.559"/>
+    <path class="cls-2" d="M636.583,230.066c-1.953,0-3.537-1.584-3.537-3.537v-12.166c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-13" d="M658.767,214.363c1.998,0,3.617-1.584,3.617-3.537s-1.619-3.537-3.617-3.537h-18.563c-1.998,0-3.617,1.584-3.617,3.537,0,1.953,1.619,3.537,3.617,3.537h18.563Z"/>
+    <path class="cls-13" d="M647.677,223.983c1.998,0,3.617-1.584,3.617-3.537s-1.619-3.537-3.617-3.537h-7.473c-1.998,0-3.617,1.584-3.617,3.537,0,1.953,1.619,3.537,3.617,3.537h7.473Z"/>
+    <path class="cls-13" d="M669.231,233.603c2.112,0,3.823-1.584,3.823-3.537,0-1.953-1.712-3.537-3.823-3.537h-28.812c-2.112,0-3.823,1.584-3.823,3.537,0,1.953,1.712,3.537,3.823,3.537h28.812Z"/>
+    <text class="cls-19" transform="translate(639.674 211.792)"><tspan x="0" y="0">I</tspan><tspan class="cls-39" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> scanner</tspan></text>
+    <text class="cls-19" transform="translate(639.674 221.4)"><tspan x="0" y="0">Fing</tspan></text>
+    <text class="cls-19" transform="translate(639.674 231.067)"><tspan x="0" y="0">Network Scanner</tspan></text>
+    <line class="cls-2" x1="636.583" y1="220.559" x2="632.942" y2="220.559"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="654.839" y1="479.286" x2="643.632" y2="479.286"/>
+    <line class="cls-2" x1="706.223" y1="422.124" x2="692.539" y2="422.124"/>
+    <line class="cls-2" x1="652.267" y1="422.132" x2="641.06" y2="422.132"/>
+    <line class="cls-2" x1="605.797" y1="494.045" x2="593.614" y2="494.045"/>
+    <path class="cls-2" d="M609.472,528.021c-1.953,0-3.537-1.584-3.537-3.537v-99.221c0-1.953,1.584-3.537,3.537-3.537"/>
+    <g>
+      <path class="cls-9" d="M528.098,489.769h64.611c.525,0,.951.426.951.951v6.649c0,.525-.426.951-.951.951h-64.611"/>
+      <path class="cls-9" d="M528.127,489.769h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+      <line class="cls-11" x1="528.113" y1="490.229" x2="528.113" y2="497.861"/>
+      <text class="cls-18" transform="translate(522.802 495.183)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-22" transform="translate(530.704 495.183)"><tspan x="0" y="0">Port and service discovery</tspan></text>
+    </g>
+    <path class="cls-15" d="M637.683,425.661c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.036c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h25.036Z"/>
+    <line class="cls-2" x1="690.448" y1="461.616" x2="679.241" y2="461.616"/>
+    <path class="cls-15" d="M639.953,482.82c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-26.822c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h26.822Z"/>
+    <text class="cls-19" transform="translate(612.691 423.09)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> scanning</tspan></text>
+    <path class="cls-15" d="M638.254,473.203c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.121c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h25.121Z"/>
+    <text class="cls-19" transform="translate(612.992 470.632)"><tspan x="0" y="0">UD</tspan><tspan class="cls-37" x="5.751" y="0">P</tspan><tspan class="cls-25" x="8.335" y="0" xml:space="preserve"> scanning</tspan></text>
+    <text class="cls-19" transform="translate(612.504 480.486)"><tspan x="0" y="0">SCT</tspan><tspan class="cls-37" x="7.964" y="0">P</tspan><tspan x="10.548" y="0" xml:space="preserve"> scanning </tspan></text>
+    <path class="cls-15" d="M640.944,492.438c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-27.813c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h27.813Z"/>
+    <path class="cls-15" d="M651.054,521.429c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-37.923c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h37.923Z"/>
+    <text class="cls-19" transform="translate(612.504 489.867)"><tspan x="0" y="0">SSD</tspan><tspan class="cls-37" x="8.188" y="0">P</tspan><tspan x="10.771" y="0" xml:space="preserve"> scanning</tspan></text>
+    <path class="cls-15" d="M638.256,502.061c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-25.125c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h25.125Z"/>
+    <text class="cls-19" transform="translate(612.504 499.489)"><tspan x="0" y="0">IPv6 scanning</tspan></text>
+    <text class="cls-19" transform="translate(612.504 519.095)"><tspan x="0" y="0">Scan reduction times</tspan></text>
+    <path class="cls-15" d="M668.446,531.126c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-55.316c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h55.316Z"/>
+    <path class="cls-15" d="M658.095,511.734c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-44.964c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h44.964Z"/>
+    <text class="cls-19" transform="translate(612.504 509.163)"><tspan x="0" y="0">Service version discovery</tspan></text>
+    <text class="cls-19" transform="translate(612.755 528.793)"><tspan x="0" y="0">Port scanning countermeasures</tspan></text>
+    <path class="cls-2" d="M652.267,461.623c-1.953,0-3.537-1.584-3.537-3.537v-42.805c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M609.472,517.892c-1.953,0-3.537-1.584-3.537-3.537v-41.152c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M697.677,414.779c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-41.872c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h41.872Z"/>
+    <text class="cls-19" transform="translate(655.536 412.243)"><tspan x="0" y="0">TC</tspan><tspan class="cls-37" x="5.308" y="0">P</tspan><tspan class="cls-25" x="7.892" y="0" xml:space="preserve"> connect (full-open)</tspan></text>
+    <path class="cls-2" d="M605.944,443.958v-42.805c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M661.888,400.651c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-48.871c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h48.871Z"/>
+    <text class="cls-19" transform="translate(612.749 398.115)"><tspan x="0" y="0">Common ports and services</tspan></text>
+    <path class="cls-15" d="M689.002,425.661c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-33.197c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h33.197Z"/>
+    <text class="cls-19" transform="translate(655.538 423.494)"><tspan x="0" y="0">Stealth</tspan><tspan class="cls-39" x="12.397" y="0"> </tspan><tspan class="cls-28" x="13.431" y="0">TC</tspan><tspan class="cls-37" x="18.739" y="0">P</tspan><tspan x="21.323" y="0" xml:space="preserve"> scans</tspan></text>
+    <path class="cls-15" d="M679.866,465.16c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-24.061c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h24.061Z"/>
+    <text class="cls-19" transform="translate(655.538 462.993)"><tspan x="0" y="0">Spoofed scan</tspan></text>
+    <line class="cls-2" x1="748.755" y1="422.124" x2="737.548" y2="422.124"/>
+    <line class="cls-2" x1="748.755" y1="451.656" x2="737.548" y2="451.656"/>
+    <path class="cls-2" d="M706.223,452.155c-1.953,0-3.537-1.584-3.537-3.537v-32.57c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M752.26,436.89c-1.953,0-3.537-1.584-3.537-3.537v-22.451c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M752.26,426.584c-1.953,0-3.537-1.584-3.537-3.537v-2.531c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M727.069,416.049c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-17.309c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h17.309Z"/>
+    <text class="cls-19" transform="translate(709.491 413.512)"><tspan x="0" y="0">Half-open</tspan></text>
+    <path class="cls-15" d="M738.302,425.661c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-28.542c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h28.542Z"/>
+    <text class="cls-19" transform="translate(709.494 423.494)"><tspan x="0" y="0">Inverse</tspan><tspan class="cls-39" x="13.058" y="0"> </tspan><tspan class="cls-28" x="14.092" y="0">TC</tspan><tspan class="cls-37" x="19.4" y="0">P</tspan><tspan x="21.984" y="0" xml:space="preserve"> flag</tspan></text>
+    <path class="cls-15" d="M732.398,465.153c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-40.033c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h40.033Z"/>
+    <path class="cls-2" d="M658.344,484.093c-1.953,0-3.537-1.584-3.537-3.537v-2.531c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M686.149,478.017c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-24.016c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h24.016Z"/>
+    <text class="cls-19" transform="translate(661.867 475.85)"><tspan x="0" y="0">INI</tspan><tspan class="cls-37" x="5.088" y="0">T</tspan><tspan x="7.449" y="0" xml:space="preserve"> scanning</tspan></text>
+    <path class="cls-15" d="M700.315,487.63c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-38.182c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h38.182Z"/>
+    <text class="cls-19" transform="translate(661.867 485.462)"><tspan x="0" y="0">Cookie echo scanning</tspan></text>
+    <text class="cls-19" transform="translate(692.099 462.986)"><tspan x="0" y="0">IDLE/IPID header scan</tspan></text>
+    <path class="cls-2" d="M609.472,498.848c-1.953,0-3.537-1.584-3.537-3.537v-2.531c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M736.297,455.193c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-26.537c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h26.537Z"/>
+    <text class="cls-19" transform="translate(709.494 453.026)"><tspan x="0" y="0">ACK flag probe</tspan></text>
+    <path class="cls-15" d="M775.062,410.895c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-19.012c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h19.012Z"/>
+    <text class="cls-19" transform="translate(755.78 408.359)"><tspan x="0" y="0">Xmas scan</tspan></text>
+    <path class="cls-15" d="M771.672,420.508c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-15.623c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h15.623Z"/>
+    <text class="cls-19" transform="translate(755.783 418.341)"><tspan x="0" y="0">FIN scan</tspan></text>
+    <path class="cls-15" d="M775.062,430.121c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-19.012c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h19.012Z"/>
+    <text class="cls-19" transform="translate(755.783 427.953)"><tspan x="0" y="0">NUL</tspan><tspan class="cls-45" x="7.966" y="0">L</tspan><tspan x="10.033" y="0" xml:space="preserve"> scan</tspan></text>
+    <path class="cls-2" d="M752.26,456.463c-1.953,0-3.537-1.584-3.537-3.537v-2.531c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M784.753,450.387c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-28.703c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h28.703Z"/>
+    <text class="cls-19" transform="translate(755.783 448.22)"><tspan x="0" y="0">TTL-based scan</tspan></text>
+    <path class="cls-15" d="M778.872,459.999c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-22.823c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h22.823Z"/>
+    <text class="cls-19" transform="translate(755.783 457.832)"><tspan x="0" y="0">Window scan</tspan></text>
+    <path class="cls-15" d="M778.851,440.427c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-22.801c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h22.801Z"/>
+    <text class="cls-19" transform="translate(755.783 438.26)"><tspan x="0" y="0">Maimon scan</tspan></text>
+    <line class="cls-2" x1="683.191" y1="527.589" x2="671.983" y2="527.589"/>
+    <path class="cls-2" d="M686.695,542.355c-1.953,0-3.537-1.584-3.537-3.537v-22.451c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M609.472,508.807c-1.953,0-3.537-1.584-3.537-3.537v-22.451c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M686.695,551.999c-1.953,0-3.537-1.584-3.537-3.537v-41.796c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-2" d="M686.695,532.049c-1.953,0-3.537-1.584-3.537-3.537v-2.531c0-1.953,1.584-3.537,3.537-3.537"/>
+    <path class="cls-15" d="M766.763,516.36c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-76.278c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h76.278Z"/>
+    <text class="cls-19" transform="translate(690.216 513.824)"><tspan x="0" y="0">Run port scanning tools to determine status</tspan></text>
+    <path class="cls-15" d="M786.158,506.737c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-95.673c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h95.673Z"/>
+    <text class="cls-19" transform="translate(690.216 504.201)"><tspan x="0" y="0">Configure firewalls and IDS to detect and block probes</tspan></text>
+    <path class="cls-15" d="M786.095,525.973c1.953,0,3.537-1.584,3.537-3.537,0-1.953-1.584-3.537-3.537-3.537h-95.61c-1.953,0-3.537,1.584-3.537,3.537s1.584,3.537,3.537,3.537h95.61Z"/>
+    <text class="cls-19" transform="translate(690.219 523.806)"><tspan x="0" y="0">Ensure routers, firewalls and IDS systems are updated</tspan></text>
+    <path class="cls-15" d="M773.441,535.586c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-82.956c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h82.956Z"/>
+    <text class="cls-19" transform="translate(690.219 533.419)"><tspan x="0" y="0">Configure anti-scanning and anti-spoofing rules</tspan></text>
+    <path class="cls-15" d="M729.512,545.892c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-39.027c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h39.027Z"/>
+    <text class="cls-19" transform="translate(690.219 543.725)"><tspan x="0" y="0">Filter ICM</tspan><tspan class="cls-37" x="17.254" y="0">P</tspan><tspan x="19.838" y="0" xml:space="preserve"> messages</tspan></text>
+    <path class="cls-15" d="M727.647,555.536c1.953,0,3.537-1.584,3.537-3.537s-1.584-3.537-3.537-3.537h-37.162c-1.953,0-3.537,1.584-3.537,3.537,0,1.953,1.584,3.537,3.537,3.537h37.162Z"/>
+    <text class="cls-19" transform="translate(690.219 553.369)"><tspan x="0" y="0">Block unwanted ports</tspan></text>
+  </g>
+  <g>
+    <line class="cls-2" x1="210.436" y1="12.562" x2="218.634" y2="12.562"/>
+    <path class="cls-2" d="M206.967,17.565c1.953,0,3.537-1.584,3.537-3.537v-3.108c0-1.953-1.584-3.537-3.537-3.537"/>
+    <line class="cls-2" x1="205.084" y1="33.103" x2="211.822" y2="33.103"/>
+    <path class="cls-2" d="M201.547,38.105c1.953,0,3.537-1.584,3.537-3.537v-3.108c0-1.953-1.584-3.537-3.537-3.537"/>
+    <line class="cls-2" x1="204.806" y1="53.72" x2="215.381" y2="53.72"/>
+    <path class="cls-2" d="M201.338,58.723c1.953,0,3.537-1.584,3.537-3.537v-3.108c0-1.953-1.584-3.537-3.537-3.537"/>
+    <g>
+      <path class="cls-6" d="M268.823,39.257h116.047c1.057,0,1.914.426,1.914.951v6.649c0,.525-.857.951-1.914.951h-116.047"/>
+      <path class="cls-6" d="M268.852,39.257h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+      <line class="cls-11" x1="268.838" y1="39.717" x2="268.838" y2="47.349"/>
+      <text class="cls-18" transform="translate(263.528 44.673)"><tspan x="0" y="0">5</tspan></text>
+      <text class="cls-22" transform="translate(271.429 44.673)"><tspan x="0" y="0">OS discovery (banner grabbing/OS fingerprinting)</tspan></text>
+    </g>
+    <path class="cls-2" d="M249.037,74.669c1.953,0,3.537-1.584,3.537-3.537v-34.657c0-1.953-1.584-3.537-3.537-3.537"/>
+    <path class="cls-2" d="M249.037,53.94c1.953,0,3.537-1.584,3.537-3.537V16.632c0-1.953-1.584-3.537-3.537-3.537"/>
+    <path class="cls-17" d="M215.433,36.64c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h30.268c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-30.268Z"/>
+    <path class="cls-17" d="M184.401,77.897c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h61.3c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-61.3Z"/>
+    <text class="cls-19" transform="translate(215.299 34.069)"><tspan x="0" y="0">Identify target OS</tspan></text>
+    <path class="cls-17" d="M222.372,15.957c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h23.329c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-23.329Z"/>
+    <text class="cls-19" transform="translate(221.598 13.386)"><tspan x="0" y="0">OS discovery</tspan></text>
+    <path class="cls-17" d="M218.918,57.169c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h26.784c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-26.784Z"/>
+    <text class="cls-19" transform="translate(218.835 54.598)"><tspan x="0" y="0">Discovery tools</tspan></text>
+    <text class="cls-19" transform="translate(183.921 75.362)"><tspan x="0" y="0">Banner grabbing countermeasures</tspan></text>
+    <path class="cls-17" d="M120.505,77.897c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h44.875c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-44.875Z"/>
+    <text class="cls-19" transform="translate(120.025 75.362)"><tspan x="0" y="0">Nmap script engine (NSE)</tspan></text>
+    <path class="cls-17" d="M159.581,21.24c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h43.849c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-43.849Z"/>
+    <text class="cls-19" transform="translate(159.781 18.843)"><tspan x="0" y="0">Passive banner grabbing</tspan></text>
+    <path class="cls-17" d="M163.329,11.014c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h40.102c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-40.102Z"/>
+    <text class="cls-19" transform="translate(162.881 8.617)"><tspan x="0" y="0">Active banner grabbing</tspan></text>
+    <line class="cls-2" x1="252.506" y1="43.685" x2="260.704" y2="43.685"/>
+    <path class="cls-17" d="M166.918,41.78c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h30.882c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-30.882Z"/>
+    <text class="cls-19" transform="translate(166.716 39.383)"><tspan x="0" y="0">TC</tspan><tspan class="cls-39" x="5.308" y="0">P</tspan><tspan x="7.892" y="0" xml:space="preserve"> window size</tspan></text>
+    <path class="cls-17" d="M189.889,31.554c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h7.911c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-7.911Z"/>
+    <text class="cls-19" transform="translate(190.247 29.157)"><tspan x="0" y="0">TT</tspan><tspan class="cls-45" x="4.864" y="0">L</tspan></text>
+    <path class="cls-17" d="M175.202,62.398c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h22.599c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-22.599Z"/>
+    <text class="cls-19" transform="translate(175.05 60)"><tspan x="0" y="0">Unicornscan</tspan></text>
+    <path class="cls-17" d="M185.69,52.172c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h12.111c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-12.111Z"/>
+    <text class="cls-19" transform="translate(185.749 49.775)"><tspan x="0" y="0">NMA</tspan><tspan class="cls-39" x="8.849" y="0">P</tspan></text>
+    <line class="cls-2" x1="169.078" y1="74.448" x2="180.699" y2="74.448"/>
+    <path class="cls-17" d="M113.072,88.037c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h52.27c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-52.27Z"/>
+    <text class="cls-19" transform="translate(113.028 85.64)"><tspan class="cls-43" x="0" y="0">T</tspan><tspan x="2.284" y="0">urn o</tspan><tspan class="cls-39" x="11.36" y="0">f</tspan><tspan x="12.395" y="0">f unnecessary services</tspan></text>
+    <path class="cls-17" d="M128.258,67.777c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h37.084c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-37.084Z"/>
+    <text class="cls-19" transform="translate(127.854 65.38)"><tspan x="0" y="0">Display false banners</tspan></text>
+    <path class="cls-2" d="M168.88,84.563c1.953,0,3.537-1.584,3.537-3.537v-13.343c0-1.953-1.584-3.537-3.537-3.537"/>
+  </g>
+  <line class="cls-2" x1="285.453" y1="251.561" x2="293.652" y2="251.561"/>
+  <g>
+    <path class="cls-1" d="M301.77,247.286h84.012c.525,0,.951.426.951.951v6.649c0,.525-.426.951-.951.951h-84.012"/>
+    <path class="cls-1" d="M301.8,247.286h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+    <line class="cls-11" x1="301.786" y1="247.745" x2="301.786" y2="255.377"/>
+    <text class="cls-18" transform="translate(296.475 252.701)"><tspan x="0" y="0">6</tspan></text>
+    <text class="cls-22" transform="translate(304.377 252.701)"><tspan x="0" y="0">Scanning beyond IDS and firewalls</tspan></text>
+  </g>
+  <path class="cls-2" d="M201.35,104.954c1.953,0,3.537,1.584,3.537,3.537v80.469s0,30.795,0,30.795v135.553c0,1.953-1.584,3.537-3.537,3.537"/>
+  <path class="cls-2" d="M204.887,121.11v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.887,132.085v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.887,142.588v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.887,173.372v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.887,286.796v2.546c0,1.953-1.584,3.537-3.537,3.537"/>
+  <path class="cls-2" d="M204.887,259.892v2.546c0,1.953-1.584,3.537-3.537,3.537"/>
+  <path class="cls-2" d="M204.887,235.845v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M160.107,108.459c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h37.706c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-37.706Z"/>
+  <path class="cls-31" d="M78.94,108.491c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h65.239c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-65.239Z"/>
+  <path class="cls-31" d="M172.416,118.842c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h25.466c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-25.466Z"/>
+  <text class="cls-19" transform="translate(160.185 105.888)"><tspan x="0" y="0">Packet fragmentation </tspan></text>
+  <text class="cls-19" transform="translate(77.912 105.909)"><tspan x="0" y="0">Split</tspan><tspan class="cls-39" x="7.746" y="0"> </tspan><tspan x="8.78" y="0">TC</tspan><tspan class="cls-39" x="14.089" y="0">P</tspan><tspan class="cls-24" x="16.673" y="0" xml:space="preserve"> header into several packets</tspan></text>
+  <line class="cls-2" x1="204.887" y1="251.561" x2="215.052" y2="251.561"/>
+  <line class="cls-2" x1="147.716" y1="104.954" x2="156.523" y2="104.954"/>
+  <path class="cls-31" d="M112.454,118.842c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h43.89c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-43.89Z"/>
+  <text class="cls-19" transform="translate(111.769 116.306)"><tspan x="0" y="0">Sender specifies I</tspan><tspan class="cls-39" x="31.651" y="0">P</tspan><tspan x="34.235" y="0" xml:space="preserve"> route</tspan></text>
+  <line class="cls-2" x1="159.881" y1="115.305" x2="168.689" y2="115.305"/>
+  <path class="cls-31" d="M218.589,255.098c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h63.328c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-63.328Z"/>
+  <text class="cls-19" transform="translate(218.402 252.516)"><tspan x="0" y="0">IDS and firewall evasion techniques</tspan></text>
+  <path class="cls-31" d="M157.825,233.311c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h39.845c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-39.845Z"/>
+  <text class="cls-19" transform="translate(157.638 230.729)"><tspan x="0" y="0">MAC address spoofing</tspan></text>
+  <text class="cls-19" transform="translate(172.448 116.306)"><tspan x="0" y="0">Source routing </tspan></text>
+  <path class="cls-31" d="M154.11,129.539c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h43.703c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-43.703Z"/>
+  <text class="cls-19" transform="translate(153.772 127.003)"><tspan x="0" y="0">Source port manipulation</tspan></text>
+  <line class="cls-2" x1="157.667" y1="167.289" x2="160.174" y2="167.289"/>
+  <path class="cls-2" d="M201.35,314.056c1.953,0,3.537-1.584,3.537-3.537v-48.901"/>
+  <line class="cls-2" x1="104.476" y1="368.53" x2="112.489" y2="368.53"/>
+  <path class="cls-31" d="M86.763,362.382c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h14.126c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-14.126Z"/>
+  <path class="cls-31" d="M91.53,372.002c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h9.359c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-9.359Z"/>
+  <path class="cls-31" d="M82.888,381.622c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h18.001c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-18.001Z"/>
+  <text class="cls-19" transform="translate(86.809 359.811)"><tspan x="0" y="0">Psiphon</tspan></text>
+  <text class="cls-19" transform="translate(91.184 369.42)"><tspan x="0" y="0">Orbot</tspan></text>
+  <text class="cls-19" transform="translate(82.826 379.086)"><tspan x="0" y="0">OpenDoor</tspan></text>
+  <path class="cls-2" d="M104.593,378.085c1.953,0,3.537-1.584,3.537-3.537v-4.552s0-7.614,0-7.614c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M167.657,140.042c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h30.045c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-30.045Z"/>
+  <path class="cls-31" d="M163.722,170.826c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h33.98c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-33.98Z"/>
+  <path class="cls-31" d="M97.246,145.763c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h53.348c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-53.348Z"/>
+  <text class="cls-19" transform="translate(167.101 137.471)"><tspan x="0" y="0">I</tspan><tspan class="cls-39" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> address decoy</tspan></text>
+  <text class="cls-19" transform="translate(162.694 168.244)"><tspan x="0" y="0">I</tspan><tspan class="cls-39" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> address spoofing</tspan></text>
+  <path class="cls-31" d="M105.088,296.208c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h92.614c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-92.614Z"/>
+  <text class="cls-19" transform="translate(104.642 293.959)"><tspan x="0" y="0">Randomizing host order and sending bad checksums</tspan></text>
+  <line class="cls-2" x1="158.239" y1="358.91" x2="171.993" y2="358.91"/>
+  <path class="cls-31" d="M86.443,352.762c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h64.555c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-64.555Z"/>
+  <path class="cls-31" d="M116.026,372.002c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h34.972c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-34.972Z"/>
+  <text class="cls-19" transform="translate(86.014 350.191)"><tspan x="0" y="0">Desktop operating systems and tools</tspan></text>
+  <text class="cls-19" transform="translate(115.898 369.466)"><tspan x="0" y="0">Mobile anonymizers</tspan></text>
+  <path class="cls-2" d="M154.702,368.465c1.953,0,3.537-1.584,3.537-3.537v-4.552s0-7.614,0-7.614c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M173.033,317.203c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h24.669c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-24.669Z"/>
+  <line class="cls-2" x1="137.485" y1="265.271" x2="151.828" y2="265.271"/>
+  <text class="cls-19" transform="translate(172.005 314.621)"><tspan x="0" y="0">Proxy systems</tspan></text>
+  <path class="cls-31" d="M175.542,362.382c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h22.319c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-22.319Z"/>
+  <text class="cls-19" transform="translate(174.515 359.8)"><tspan x="0" y="0">Anonymizers</tspan></text>
+  <text class="cls-19" transform="translate(96.952 143.227)"><tspan x="0" y="0">Change the source I</tspan><tspan class="cls-39" x="35.861" y="0">P</tspan><tspan class="cls-24" x="38.445" y="0" xml:space="preserve"> address</tspan></text>
+  <path class="cls-31" d="M92.787,178.223c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h57.902c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-57.902Z"/>
+  <text class="cls-19" transform="translate(92.448 175.687)"><tspan x="0" y="0">I</tspan><tspan class="cls-39" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> spoofing detection techniques</tspan></text>
+  <path class="cls-31" d="M98.999,222.021c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h51.594c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-51.594Z"/>
+  <text class="cls-19" transform="translate(98.661 219.485)"><tspan x="0" y="0">I</tspan><tspan class="cls-39" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> spoofing countermeasures</tspan></text>
+  <path class="cls-31" d="M141.609,163.127c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h9.08c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-9.08Z"/>
+  <line class="cls-2" x1="104.476" y1="323.417" x2="118.237" y2="323.417"/>
+  <path class="cls-31" d="M75.086,317.269c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h25.813c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-25.813Z"/>
+  <path class="cls-31" d="M71.549,326.889c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h29.35c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-29.35Z"/>
+  <path class="cls-31" d="M69.091,336.509c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h31.808c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-31.808Z"/>
+  <text class="cls-19" transform="translate(75.32 314.698)"><tspan x="0" y="0">Proxy switcher</tspan></text>
+  <text class="cls-19" transform="translate(71.499 324.307)"><tspan x="0" y="0">cyberGhost VPN</tspan></text>
+  <text class="cls-19" transform="translate(69.118 333.973)"><tspan x="0" y="0">mobile proxy tools</tspan></text>
+  <path class="cls-2" d="M104.603,332.972c1.953,0,3.537-1.584,3.537-3.537v-4.552s0-7.614,0-7.614c0-1.953-1.584-3.537-3.537-3.537"/>
+  <text class="cls-19" transform="translate(141.316 160.591)"><tspan class="cls-32" x="0" y="0">T</tspan><tspan class="cls-24" x="1.991" y="0">ools </tspan></text>
+  <path class="cls-31" d="M154.658,269.225c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h43.044c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-43.044Z"/>
+  <text class="cls-19" transform="translate(154.32 266.689)"><tspan x="0" y="0">Creating custom packets</tspan></text>
+  <path class="cls-31" d="M112.707,158.983c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h12.079c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-12.079Z"/>
+  <path class="cls-31" d="M115.114,168.603c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h9.673c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-9.673Z"/>
+  <text class="cls-19" transform="translate(112.529 156.4)"><tspan x="0" y="0">Hping3</tspan></text>
+  <text class="cls-19" transform="translate(114.558 166.066)"><tspan x="0" y="0">Nmap</tspan></text>
+  <path class="cls-2" d="M128.438,164.873c1.953,0,3.537-1.584,3.537-3.537"/>
+  <path class="cls-2" d="M131.975,161.336v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M77.583,223.566c1.953,0,3.537-1.584,3.537-3.537"/>
+  <path class="cls-2" d="M81.12,220.029v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <line class="cls-2" x1="131.907" y1="159.87" x2="138.072" y2="159.87"/>
+  <line class="cls-2" x1="77.583" y1="174.751" x2="89.25" y2="174.751"/>
+  <path class="cls-31" d="M41.822,168.603c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h32.056c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-32.056Z"/>
+  <path class="cls-31" d="M32.345,178.223c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h41.534c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-41.534Z"/>
+  <path class="cls-31" d="M33.381,187.842c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h40.498c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-40.498Z"/>
+  <text class="cls-19" transform="translate(42.543 166.032)"><tspan x="0" y="0">Direct</tspan><tspan class="cls-39" x="10.398" y="0"> </tspan><tspan x="11.433" y="0">TT</tspan><tspan class="cls-45" x="16.297" y="0">L</tspan><tspan x="18.364" y="0" xml:space="preserve"> probes</tspan></text>
+  <text class="cls-19" transform="translate(32.593 175.64)"><tspan x="0" y="0">I</tspan><tspan class="cls-39" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> identification number</tspan></text>
+  <text class="cls-19" transform="translate(33.539 185.306)"><tspan x="0" y="0">T</tspan><tspan class="cls-39" x="2.433" y="0">P</tspan><tspan x="5.017" y="0" xml:space="preserve"> flow control method</tspan></text>
+  <path class="cls-2" d="M77.583,184.306c1.953,0,3.537-1.584,3.537-3.537v-4.552s0-7.614,0-7.614c0-1.953-1.584-3.537-3.537-3.537"/>
+  <line class="cls-2" x1="145.727" y1="313.797" x2="169.496" y2="313.797"/>
+  <path class="cls-31" d="M119.748,307.649c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h22.276c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-22.276Z"/>
+  <path class="cls-31" d="M116.026,317.269c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h25.997c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-25.997Z"/>
+  <path class="cls-31" d="M121.774,326.889c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h20.249c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-20.249Z"/>
+  <text class="cls-19" transform="translate(119.985 305.078)"><tspan x="0" y="0">Proxy server</tspan></text>
+  <text class="cls-19" transform="translate(116.159 314.687)"><tspan x="0" y="0">Proxy chaining</tspan></text>
+  <text class="cls-19" transform="translate(122.637 324.353)"><tspan x="0" y="0">Proxy tools</tspan></text>
+  <path class="cls-2" d="M145.727,323.352c1.953,0,3.537-1.584,3.537-3.537v-4.552s0-7.614,0-7.614c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M154.13,175.246c1.953,0,3.537-1.584,3.537-3.537v-.967s0-7.614,0-7.614c0-1.953-1.584-3.537-3.537-3.537"/>
+  <line class="cls-2" x1="81.12" y1="218.484" x2="95.462" y2="218.484"/>
+  <path class="cls-31" d="M34.673,198.243c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h39.206c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-39.206Z"/>
+  <path class="cls-31" d="M25.611,207.863c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h48.268c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537H25.611Z"/>
+  <path class="cls-31" d="M11.893,217.483c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h61.985c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537H11.893Z"/>
+  <text class="cls-19" transform="translate(34.871 195.673)"><tspan x="0" y="0">Encrypt network tra</tspan><tspan class="cls-39" x="34.302" y="0">f</tspan><tspan x="35.336" y="0">fic</tspan></text>
+  <text class="cls-19" transform="translate(25.283 205.281)"><tspan x="0" y="0">Implement multiple firewalls</tspan></text>
+  <text class="cls-19" transform="translate(11.984 214.947)"><tspan x="0" y="0">Do not use IP-based authentication</tspan></text>
+  <path class="cls-2" d="M77.583,233.476c1.953,0,3.537-1.584,3.537-3.537v-9.923s0-12.152,0-12.152c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M14.221,227.103c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h59.657c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537H14.221Z"/>
+  <path class="cls-31" d="M47.587,237.013c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h26.292c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-26.292Z"/>
+  <path class="cls-31" d="M48.14,246.633c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h25.738c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-25.738Z"/>
+  <text class="cls-19" transform="translate(13.982 224.533)"><tspan x="0" y="0">Random initial sequence numbers</tspan></text>
+  <text class="cls-19" transform="translate(47.187 234.43)"><tspan x="0" y="0">Ingress filtering</tspan></text>
+  <path class="cls-2" d="M133.948,270.353c1.953,0,3.537-1.584,3.537-3.537"/>
+  <path class="cls-2" d="M137.485,266.816v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M81.12,254.65c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h49.125c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-49.125Z"/>
+  <path class="cls-31" d="M76.323,264.27c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h53.921c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-53.921Z"/>
+  <text class="cls-19" transform="translate(80.906 252.068)"><tspan x="0" y="0">Create custom</tspan><tspan class="cls-39" x="25.893" y="0"> </tspan><tspan x="26.927" y="0">TC</tspan><tspan class="cls-39" x="32.234" y="0">P</tspan><tspan x="34.818" y="0" xml:space="preserve"> packets</tspan></text>
+  <text class="cls-19" transform="translate(76.763 261.734)"><tspan x="0" y="0">Appending custom binary data</tspan></text>
+  <path class="cls-2" d="M133.948,280.263c1.953,0,3.537-1.584,3.537-3.537v-9.923s0-12.152,0-12.152c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M201.094,557.056c1.953,0,3.537-1.584,3.537-3.537v-2.109c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M201.094,531.726c1.953,0,3.537-1.584,3.537-3.537v-2.109c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M201.094,506.376c1.953,0,3.537-1.584,3.537-3.537v-2.109c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M201.094,482.684c1.953,0,3.537-1.584,3.537-3.537v-2.109c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M201.094,457.344c1.953,0,3.537-1.584,3.537-3.537v-2.109c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M201.094,431.963c1.953,0,3.537-1.584,3.537-3.537v-38.448c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.631,399.001c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.631,408.19c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M204.631,419.404c0,1.953-1.584,3.537-3.537,3.537"/>
+  <path class="cls-2" d="M204.631,410.298c0,1.953-1.584,3.537-3.537,3.537"/>
+  <path class="cls-31" d="M98.271,273.89c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h31.973c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-31.973Z"/>
+  <path class="cls-31" d="M88.212,283.8c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h42.033c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-42.033Z"/>
+  <text class="cls-19" transform="translate(98.677 271.32)"><tspan x="0" y="0">Appending strings</tspan></text>
+  <text class="cls-19" transform="translate(88.047 281.217)"><tspan x="0" y="0">Appending random data</tspan></text>
+  <line class="cls-2" x1="64.366" y1="348.808" x2="82.906" y2="348.808"/>
+  <path class="cls-2" d="M60.829,353.89c1.953,0,3.537-1.584,3.537-3.537"/>
+  <path class="cls-2" d="M64.366,350.353v-2.546c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M49.712,338.187c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h7.413c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-7.413Z"/>
+  <path class="cls-31" d="M45.818,347.807c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h11.307c1.953,0,3.537,1.584,3.537,3.537,0,1.953-1.584,3.537-3.537,3.537h-11.307Z"/>
+  <text class="cls-19" transform="translate(49.469 335.605)"><tspan class="cls-32" x="0" y="0">T</tspan><tspan class="cls-24" x="1.991" y="0">ails</tspan></text>
+  <text class="cls-19" transform="translate(45.487 345.271)"><tspan x="0" y="0">Alkasir</tspan></text>
+  <path class="cls-2" d="M60.829,363.8c1.953,0,3.537-1.584,3.537-3.537v-9.923s0-12.152,0-12.152c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-31" d="M44.05,357.427c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h13.075c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-13.075Z"/>
+  <path class="cls-31" d="M42.886,367.337c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h14.239c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-14.239Z"/>
+  <text class="cls-19" transform="translate(44.157 354.857)"><tspan x="0" y="0">Whonix</tspan></text>
+  <text class="cls-19" transform="translate(43.045 364.755)"><tspan x="0" y="0">Psiphon</tspan></text>
+  <text class="cls-19" transform="translate(47.852 244.096)"><tspan x="0" y="0">Egress filtering</tspan></text>
+  <path class="cls-2" d="M77.583,243.096c1.953,0,3.537-1.584,3.537-3.537v-4.552s0-36.949,0-36.949c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M154.13,218.484c1.953,0,3.537-1.584,3.537-3.537v-32.236s0-36.949,0-36.949c0-1.953-1.584-3.537-3.537-3.537"/>
+  <line class="cls-2" x1="287.338" y1="459.182" x2="293.32" y2="459.182"/>
+  <line class="cls-2" x1="204.628" y1="409.523" x2="225.698" y2="409.523"/>
+  <path class="cls-2" d="M283.892,501.822c1.953,0,3.537-1.584,3.537-3.537v-21.114"/>
+  <path class="cls-2" d="M283.892,527.321c1.953,0,3.537-1.584,3.537-3.537v-21.114"/>
+  <g>
+    <path class="cls-10" d="M301.439,454.906h84.345c.526,0,.952.426.952.951v6.649c0,.525-.426.951-.952.951h-84.345"/>
+    <path class="cls-10" d="M301.468,454.906h-7.196c-.525,0-.951.426-.951.951v6.649c0,.525.426.951.951.951h7.196"/>
+    <line class="cls-11" x1="301.454" y1="455.366" x2="301.454" y2="462.998"/>
+    <text class="cls-18" transform="translate(296.143 460.322)"><tspan x="0" y="0">7</tspan></text>
+    <text class="cls-22" transform="translate(304.045 460.322)"><tspan x="0" y="0">Network scanning countermeasure</tspan></text>
+  </g>
+  <path class="cls-14" d="M220.239,481.504c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h59.96c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-59.96Z"/>
+  <path class="cls-14" d="M229.811,530.72c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h50.533c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-50.533Z"/>
+  <text class="cls-20" transform="translate(229.374 528.425)"><tspan x="0" y="0">I</tspan><tspan class="cls-36" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> spoofing countermeasures</tspan></text>
+  <path class="cls-2" d="M283.892,552.456c1.953,0,3.537-1.584,3.537-3.537v-86.011"/>
+  <path class="cls-14" d="M210.751,555.993c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h69.593c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-69.593Z"/>
+  <text class="cls-20" transform="translate(210.256 553.699)"><tspan x="0" y="0">Scanning detection and prevention tools</tspan></text>
+  <path class="cls-14" d="M224.268,505.114c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h56.076c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-56.076Z"/>
+  <text class="cls-20" transform="translate(223.612 502.82)"><tspan x="0" y="0">I</tspan><tspan class="cls-36" x="1.106" y="0">P</tspan><tspan x="3.69" y="0" xml:space="preserve"> spoofing detection techniques</tspan></text>
+  <text class="cls-20" transform="translate(219.781 478.968)"><tspan x="0" y="0">Banner grabbing countermeasures</tspan></text>
+  <path class="cls-2" d="M287.429,498.386v-41.937c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-2" d="M287.429,481.51c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-14" d="M225.573,456.259c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h54.626c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-54.626Z"/>
+  <text class="cls-20" transform="translate(224.878 453.723)"><tspan x="0" y="0">Port scanning countermeasures</tspan></text>
+  <path class="cls-2" d="M287.429,469.392v-56.202c0-1.953-1.584-3.537-3.537-3.537"/>
+  <path class="cls-14" d="M229.366,413c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h50.834c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-50.834Z"/>
+  <text class="cls-20" transform="translate(228.64 410.464)"><tspan x="0" y="0">Ping sweep countermeasures</tspan></text>
+  <path class="cls-14" d="M147.036,408.116c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h50.402c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-50.402Z"/>
+  <path class="cls-14" d="M90.476,426.235c-1.953,0-3.537-1.584-3.537-3.537s1.584-3.537,3.537-3.537h107.107c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-107.107Z"/>
+  <text class="cls-20" transform="translate(89.896 423.941)"><tspan x="0" y="0">Use DMZs to isolate hosts and only permit certain commands</tspan></text>
+  <path class="cls-14" d="M147.452,435.338c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h50.131c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-50.131Z"/>
+  <text class="cls-20" transform="translate(146.921 433.044)"><tspan x="0" y="0">Limit ICM</tspan><tspan class="cls-36" x="16.812" y="0">P</tspan><tspan x="19.396" y="0" xml:space="preserve"> tra</tspan><tspan class="cls-38" x="25.15" y="0">f</tspan><tspan x="26.184" y="0">fic using</tspan><tspan class="cls-42" x="40.792" y="0"> </tspan><tspan x="41.679" y="0">ACLs</tspan></text>
+  <path class="cls-14" d="M102.67,417.128c-1.953,0-3.537-1.584-3.537-3.537,0-1.953,1.584-3.537,3.537-3.537h94.913c1.953,0,3.537,1.584,3.537,3.537s-1.584,3.537-3.537,3.537h-94.913Z"/>
+  <text class="cls-20" transform="translate(101.974 414.834)"><tspan x="0" y="0">Cut o</tspan><tspan class="cls-38" x="9.518" y="0">f</tspan><tspan x="10.552" y="0">f connections exceeding 10 ICM</tspan><tspan class="cls-36" x="67.217" y="0">P</tspan><tspan x="69.801" y="0" xml:space="preserve"> Echo requests</tspan></text>
+  <text class="cls-20" transform="translate(146.472 405.581)"><tspan x="0" y="0">Evaluate allowed ICM</tspan><tspan class="cls-36" x="38.511" y="0">P</tspan><tspan x="41.095" y="0" xml:space="preserve"> tra</tspan><tspan class="cls-38" x="46.849" y="0">f</tspan><tspan x="47.883" y="0">fic</tspan></text>
+  <path class="cls-14" d="M157.456,399.01c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h39.983c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-39.983Z"/>
+  <text class="cls-20" transform="translate(156.728 396.474)"><tspan x="0" y="0">Implement IDS and IPS</tspan></text>
+  <path class="cls-14" d="M159.451,389.903c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h37.987c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-37.987Z"/>
+  <text class="cls-20" transform="translate(158.721 387.367)"><tspan x="0" y="0">Firewall configurations</tspan></text>
+  <path class="cls-14" d="M10.572,460.688c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h186.866c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537H10.572Z"/>
+  <text class="cls-20" transform="translate(9.895 458.153)"><tspan x="0" y="0">Block inbound ICM</tspan><tspan class="cls-36" x="33.421" y="0">P</tspan><tspan x="36.005" y="0" xml:space="preserve"> message types and all outbound ICM</tspan><tspan class="cls-36" x="102.853" y="0">P</tspan><tspan x="105.437" y="0" xml:space="preserve"> type-3 unreachable message at border routers</tspan></text>
+  <path class="cls-14" d="M67.948,451.582c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h129.491c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537H67.948Z"/>
+  <text class="cls-20" transform="translate(67.299 449.046)"><tspan x="0" y="0">Block unwanted services running on ports and update the service versions</tspan></text>
+  <path class="cls-14" d="M134.996,486.072c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h62.443c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-62.443Z"/>
+  <text class="cls-20" transform="translate(134.37 483.536)"><tspan x="0" y="0">Hide file extensions from web pages</tspan></text>
+  <path class="cls-14" d="M134.072,476.966c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h63.366c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-63.366Z"/>
+  <text class="cls-20" transform="translate(133.48 474.43)"><tspan x="0" y="0">Disable or change banner messages</tspan></text>
+  <path class="cls-14" d="M136.359,509.736c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h61.08c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-61.08Z"/>
+  <text class="cls-20" transform="translate(135.77 507.2)"><tspan x="0" y="0">Monitor the I</tspan><tspan class="cls-36" x="22.132" y="0">P</tspan><tspan x="24.716" y="0" xml:space="preserve"> identification number</tspan></text>
+  <path class="cls-14" d="M167.311,500.629c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h30.128c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-30.128Z"/>
+  <text class="cls-20" transform="translate(166.691 498.093)"><tspan x="0" y="0">Direct</tspan><tspan class="cls-38" x="10.398" y="0"> </tspan><tspan class="cls-29" x="11.433" y="0">TT</tspan><tspan class="cls-44" x="16.297" y="0">L</tspan><tspan x="18.364" y="0" xml:space="preserve"> probes</tspan></text>
+  <path class="cls-14" d="M142.514,535.092c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h54.924c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-54.924Z"/>
+  <text class="cls-20" transform="translate(141.899 532.556)"><tspan x="0" y="0">Use Ingress and Egress filtering</tspan></text>
+  <path class="cls-14" d="M94.415,525.985c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h103.023c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-103.023Z"/>
+  <text class="cls-20" transform="translate(94.08 523.45)"><tspan class="cls-44" x="0" y="0">T</tspan><tspan x="2.285" y="0">rust relationships – Do not rely on I</tspan><tspan class="cls-36" x="63.815" y="0">P</tspan><tspan class="cls-26" x="66.399" y="0" xml:space="preserve"> based authentication</tspan></text>
+  <path class="cls-14" d="M175.84,560.476c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h21.598c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-21.598Z"/>
+  <text class="cls-20" transform="translate(175.318 557.94)"><tspan class="cls-34" x="0" y="0">T</tspan><tspan x="1.991" y="0">ool - Splunk</tspan></text>
+  <path class="cls-14" d="M171.004,551.369c-2.03,0-3.675-1.584-3.675-3.537,0-1.953,1.646-3.537,3.675-3.537h26.435c2.03,0,3.675,1.584,3.675,3.537s-1.646,3.537-3.675,3.537h-26.435Z"/>
+  <text class="cls-20" transform="translate(170.667 548.834)"><tspan class="cls-34" x="0" y="0">T</tspan><tspan x="1.991" y="0">ool – Extrahop</tspan></text>
+  <rect class="cls-7" x="433.609" y="240.908" width="57.25" height="20.936" rx="5.045" ry="5.045"/>
+  <text class="cls-23" transform="translate(447.623 246.863)"><tspan class="cls-27"><tspan x="0" y="0">CEH module 03 </tspan></tspan><tspan class="cls-30"><tspan x="-2.195" y="5.254">Scanning networks </tspan></tspan><tspan class="cls-27"><tspan x="-1.719" y="9.983">(Block 2, </tspan><tspan class="cls-35" x="15.8" y="9.983">W</tspan><tspan x="19.448" y="9.983">eek 5) </tspan></tspan></text>
+  <path class="cls-3" d="M386.736,43.32h0c17.189,0,30.922,10.516,33.523,27.568l27.362,170.535"/>
+  <path class="cls-3" d="M511.255,119.563h0c-16.682,0-21.111,12.329-24.721,28.481l-23.915,93.783"/>
+  <line class="cls-3" x1="386.734" y1="251.561" x2="441.097" y2="251.561"/>
+  <path class="cls-3" d="M520.039,202.307h0c-20.063,0-33.177,12.01-40.988,30.49l-3.806,8.676"/>
+  <path class="cls-3" d="M520.039,327.866h0c-19.851,0-25.56-12.477-32.241-31.171l-12.686-35.413"/>
+  <path class="cls-3" d="M520.037,494.045h0c-18.97,0-23.038-13.982-25.659-32.771l-31.849-199.926"/>
+  <path class="cls-3" d="M386.736,459.182h0c19.144,0,35.525-13.744,38.85-32.597l22.057-164.741"/>
+</svg>
