@@ -2,5 +2,5 @@
 
 
 
-![bvcc.JPG](./resources/bvcc.JPG)
+![bvcc.JPG](./bvcc.JPG)
 
