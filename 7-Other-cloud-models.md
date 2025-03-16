@@ -1,0 +1,3 @@
+- The NIST document describes the three basic service models (Saas, PaaS, IaaS) of the cloud, but as the cloud has evolved it has been found that many of the other essential components of a functioning cloud can be decomposed into self-contained services. 
+- Much of this decomposition is based on the ideas of service-oriented architecture (SOA), in which complex processes are split into many small re-usable components in the form of web services
+- Once a web service has been built, tested, and deployed, it can be used as a component in another process, thereby reducing development costs and time
