@@ -1,6 +1,3 @@
-![tm359_blk2_fig4_1.svg](./tm359_blk2_fig4_1.svg)
+![tm359_blk2_fig5_1.svg](../../../_resources/tm359_blk2_fig5_1.svg)
 
-
-
-![bvcc.JPG](./bvcc.JPG)
-
+The main tools used during the core labs were Nmap, NSE, Hping3 and Metasploit. Alternatives used in the industry include Colasoft Packet Builder, NetScanTools Pro, Nikto and the Angry IP scanner (this is not an exhaustive list).

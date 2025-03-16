@@ -1,0 +1,59 @@
+- IDS / Firewall evasion techniques
+	- Though firewalls and IDSs can prevent malicious traffic (packets) from entering a network, attackers can manage to send intended packets to the target by evading an IDS or firewall through the following techniques:
+		- Packet fragmentation
+		- Source routing
+		- Source Port manipulation
+		- IP address decoy
+		- IP address spoofing
+		- MAC address spoofing
+		- Creating custom packets
+		- Randomizing Host order and sending bad checksums
+		- Proxy servers
+		- Anonymizers
+			- Removes all idenity info from the users computer while the user surfs the internet
+			- anonymizers make activiyt on the internet untraceable
+			- anonymizers allow you to bypass internet censors
+			- Why use an anonymizer?
+				- Privacy and anonymity
+				- Protection against online attacks
+				- Access restricted content
+- Packet Fragmentation
+	- Packet fragmentation refers to the splitting of a probe packet into serveral smaller packets while sending it to a network
+	- It is not a new scanning method but a modification of the previous techniques
+	- The TCP header is split into several packets so that the packet filters are not able to detect what the packets are intended to do
+- Source Routing
+	- As the packet travels through the nodes in the network, each router examines the destination IP address and chooses the next hop to direct the packet to the destination
+	- Source routing refers to sending a packet to the intended destination with a partially or completely specified route (withoute firewall/IDS configured routers) in order to evade an IDS or firewall
+	- In source routing, the attacker makes some or all of these decisions on the router
+- Source Port Manipulation
+	- Source port manipulation refers to manipulating actual prot numbers with common port numbers in order to evade an IDS or firewall
+	- It occurs when a firewall is configured to allow packets from well-known ports like HTTP, DNS, FTP, etc.
+	- Nmap uses the -g or --source-port options to perform source port manipulation
+- IP address decoy
+	- Refers to generating or manually specifying the IP addresses of decoys in order to evade an IDS or firewall
+	- It appears to the target that the decoys as well as the hosts are scanning the network
+	- This technique makes it difficult for the IDS or firewall to determine which IP address was actually scanning the network and which IP addresses were decoys
+	- Decoy scanning using Nmap
+		- Nmap has two options:
+			- nmap -D RND:10 [target]
+				- Generates a random number of decoys
+			- nmap -D decoy1, decoy2, decoy3, .. etc.
+				- Manually specify the IP addresses of decoys
+- IP address spoofing
+	- refers to changing the source IP addresses so that the attack appears to be coming from someone else
+	-  when the victim replies to the address, it goes back to the spoofed address rather than the attackers real addresss
+	-  Attackers mdoify the acdress info in the IP packet header and the source address bits field in order to bypass teh IDS or firewall
+- Proxy Servers
+	- applicaton that can serve as an intermediary for connecting with other computers
+	- Why do attackers use proxy servers?
+		- 1. To hide the actual source of a scan and evade certain IDS/firewall restrictions
+		- 2. To mask the actaul source of an attack by impersonating the fake source address of the proxy
+		- 3. To remotely access intranets and other website resources that are normally restricted
+		- 4. To interrupt all requests sent by a user and transmit them to a third destination such that victims can only identify the proxy server address
+		- 5. To chain multiple proxy servers to avoid detection
+- Proxy Chaining
+	- User requests a resource from the destination
+	- Proxy client at the users system connects to a proxy server and passes the request to proxy server
+	- The proxy server strips the users identification information and passes the request to next proxy server
+	- This process is repeated by all the proxy servers in the chain
+	- At the end, the unencrypted request is passed to the web server
