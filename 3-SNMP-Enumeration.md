@@ -1,0 +1,105 @@
+- SNMP allows network administrators to manage network devices from a remote location
+	- However, SNMP has many serurity vulnerabilities, such as a lack of auditing
+	- Attackers may take advantage of these vulnerabilites to perform acocunt and device enumeration
+- SNMP is an application layer protocol that runs on UDP and maintains and manages routers, hubs, and switches on an IP network
+	- SNMP agents run on windows and unix networks on networking devices
+- SNMP enumeration is the process of creating a  list of the user's accounts and devices on a target computer using SNMP
+	- SNMP employs two types of software components for communication:
+		- The SNMP agent
+		- The SNMP management station
+	- The SNMP agent is located on the networking device, and the SNMP management station communicates with the agent
+- Almost all the network infrastrucutre devices such as routers and switches contain an SNMP agent for managing the system or devices
+	- The SNMP management station sends requests to the agent; after receiving the request, the agent replies
+	- Both requests and replies are configuration variables accessible by the agent software
+	- SNMP management stations send requests to set values to some variables
+	- Traps let the management station know if an abnormal event such as a reboot or an interface failure has occurred at the agent's side
+	- SNMP contains the following two passwords for configuring and accessing the SNMP agent from the management station
+		- Read Community String
+			- The configuration of the device or system can be viewed with the help of this password
+			- These strings are public
+		- Read/Write Community String
+			- The device configuration can be changed or edited using this password
+			- These strings are private
+	- When administrators leave the community strings at the default setting, attackers can use these default community strings (passwords) for changing or viewing the configuration of the device or system
+	- Attackers enumerate SNMP to extract information about network resources such as hosts, routers, devices,  and shares as well as network information such as ARP tables, routing tables, device-specific information, and traffic statistics
+	- Commonly used SNMP enumeration tools include OpUtils and Network Performance Monitor
+- **Working of SNMP**
+	- SNMP uses a distrubed architecture comprisiing SNMP managers, SNMP agents, and several related components. The following are some commands associated with SNMP:
+		- GetRequest: Used by the SNMP manager to request info from an SNMP agent
+		- GetNextRequest: Used by the SNMP manager continuously to retrieve all the data stored in an array or table
+		- GetResponse: Used by an SNMP agent to satisfy a request made by the SNMP manager
+		- SetRequest: Used by the SNMP manager to modify the value of a parameter within an SNMP agent's management information base (MIB)
+		- Trap: Used by an SNMP agent to inform the pre configured SNMP manager of a certain event
+	- The communication process between an SNMP manager and SNMP agent is as follows
+		- The SNMP manager uses the GetRequest command to send a request for the number of active sessions to the SNMP agent. To perform this step, the SNMP manager uses an SNMP service library such as the Microsoft SNMP Management API Library (Mgmtapi.dll) or Microsoft WinSNMP API Library (Wsnmp32.dll)
+		- The SNMP agent receives the message and verifies if the community string (Compinfo) is present on its MIB, checks the request against its list of access permissions for that community, and verifies the source IP address
+		- If the SNMP agent does not find the community string or access permission in Host Y's MIB database and the SNMP service is set to send an authentication trap, it sends an authentication failure trap to the specified trap destination, Host Z
+		- The master agent component of the SNMP agent calls the appropriate extension agent to retreieve the request session information from the MIB
+		- Using the session information retrieved from the extension agent, the SNMP serivce forms a return SNMP message that contains the number of active sessions and the destination IP address of the SNMP manager, Host X
+		- Host Y sends the response to Host X
+		- ![fdafafa.JPG](../../../_resources/fdafafa.JPG)
+	- **Management Information Base (MIB)**
+		- MIB is a virtual database containing a formal description of all the network objects that SNMP manages
+		- It is a collection of hierarchially organized inforamtion
+		- It provides a standard representation of the SNMP  agent's information and storage
+		- MIB elements are recognized using object identifiers (OIDs)
+		- An OID is the numeric name given to an object and begins with the root of the MIB tree
+		- The OID can uniquely identify the object in the MIB hierarchy
+		- MIB-managed objects include scalr objects, which define a single object instance, and tabular objects, which define a gorup of related object instances.
+		- OIDs include the object's type (such as counter, string, or address), access level (such as read or read/write), size restrictions, and range information
+		- The SNMP manager converts the OIDs into a human-readable dislay using the MIB as a codebook
+		- A user can access the contents of the MBI by using a web broswer either by entering the IP address and Lseries.mib or by entering the DNS library name and Lseries.mib
+		- The major MIBs are as follows
+			- DHCP.MIB: Monitors netowrk traffic between DHCP servers and remote hosts
+			- HOSTMIB.MIB: Monitors and manages host resources
+			- LNMIB2.MIB: Contains object types for workstation and server services
+			- MIB__II.MIB: Manages TCP/IP based internet using a simple architecture and system
+			- WINS.MIB: For the Windows Internet Name Service (WINS)
+	- **Enumerating SNMP using SnmpWalk**
+		- SnmmpWalk is a command line tool that allows attackers to scan numerous Simple Network Management Protocol (SNMP) nodes instantly and identify a set of variables that are available for accessing the target network
+		- Using this tool, attackers target the root node so that inforamtion form all the sub nodes such as routers and switches can be fetched
+		- The information can be retrieved in the form of an object identifier (OID), which is part of the management information base (MIB) associated with the devices having SNMP enabled
+		- Attackers execute the following command to retrieve SNMP information from the target device:
+			- `snmpwalk -vl -c public <Target IP Address>`
+		- The above command allows attackers to view all the OIDs, variables, and other associated information
+		- Using this command, attackers can also`` rretrieve all the data in transit to the SNMP server from the SNMP agent, including the server being used, user credentials, and other parameters
+		- Other SnmpWalk commands:
+			- Command to enumerate SNMPv2 with a community string of public:
+				- `snmpwalk -v2c -c public <Target IP Addresses>`
+			- Command to serarch for installed software:
+				- `snmpwalk -v2c -c public <Target IP Addresses> hrSWInstalledName`
+			- Command to determine the amount of RAM on the host:
+				- `snmpwalk -v2c -c public <Target IP Addresses> hrMemorySize`
+			- Command to change an OID to a different value:
+				- `snmpwalk -v2c -c public <Target IP Addresses> <OID> <New Value>`
+			- Command to change the sysContact OID:
+				- `snmpwalk -v2c -c public <Target IP Address> sysContact <New Value>`
+	- **Enumerating SNMP Using Nmap**
+		- Attackers use the snmp-processes nmap scripting engine script against an SNMP remote server to retrieve information related to the hosted SNMP services
+		- `nmap -sU -p 161 --script+snmp-processes <Target IP Address>`
+		- The above nmap command, when exectued, retrieves a list of all the running SNMP processes along with the associated ports on the target host
+		- Other Nmap commands to perform SNMP enumeration:
+			- `nmap -sU -p 161 --script=snmp-sysdescr <Target IP Address>`
+				- Retrieves information regarding SNMP server type and operating system details.
+			- `nmap -sU -p 161 --script=snmp-win32-software <Target IP Address>`
+				- Retrieves a list of all the applications running on the target machine.
+	- **SNMP Enumeration Tools**
+		- SNMP Enumeration tools are used to scan a single IP address or a range of IP addresses of SNMP-enabled network devices to monitor, diagnose, and troubleshoot security threats
+			- snmp-check
+				- open source tool distributed under the GNU GPL
+				- Its goal is to automate the process of gathering inforamtion on any device with SNMP support
+				- snmp-check allows the enumeration of SNMP devices an dplaces the output in a human readable and user friendly format
+				- It could be useful for penetration testing or systems monitoring
+				- Attackers use this tool to gather info about the target, such as contact, description, write access, devices, domain, hardware, and storage information, hostname, Internet Information Services (IIS) statistics, IP forwarding, listening UDP ports, location, mountpoints, network interfaces, network services, routing information, software components, system uptime, TCP connections, total memory, uptime, and user accounts
+			- SoftPerfect Network Scanner
+				- SoftPerfect Network Scanner can ping computers, scan ports, discover shared folders, and retireve practically any info about network devices via Windows management Instrumentation (WMI), SNMP, HTTP, SSH, and PowerShell
+				- It also scans for remote services, registry, files, and performance counters; offers flexible filtering and display options; and exports NetScan results to a variety of formats ranging from XML to JSON
+				- Moreover, SoftPerfect network scanner can check for a user defined port and report if one is open
+				- In addition, it can resolve host names and auto detect the local and external IP range
+				- It supports remote shutdown and wake on LAN
+				- Attackers use this tool to gather info about a shared folder and network devices
+			- The following are some additional SNMP enumeration tools:
+				- Network Performance Monitor
+				- OpUtils
+				- PRTG Network Monitor
+				- Engineer's Toolset

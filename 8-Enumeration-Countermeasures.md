@@ -1,0 +1,110 @@
+- Method of avoiding info leakage through SNMP, DNS, SMTP, LDAP, SMB, NFS, and FTP enumeration
+- **SNMP Enumeration Countermeasures**
+	- Remove the SNMP agent or turn off the SNMP device
+	- If turning off SNMP is not an option, then change the default community string names
+	- Upgrade to SNMP3, which encrypts passwords and messages
+	- Implement to the group policy security option called "Additional restricitions for anonymous connections"
+	- Ensure that access to null session pipes, null session shares, and IPsec filtering is restricted
+	- Block access to TCP/UDP port 161
+	- Do not install the management and monitoring Windows component unless required
+	- Encrypt or authenticate using IPsec
+	- Do not misconfigure the SNMP service with read-write authorization
+	- Configure access-control lists (ACLs) for all SNMP connections to allow only legitimate users to access SNMP devices
+	- Regularly audit the network traffic
+	- Encrypt credentials using the "AuthNoPriv" mode, which uses MD5 and SHA for additional protection
+	- Modify the registry to allow only restricted or permitted access to the SNMP community
+	- Change the default password and periodically change the current password
+	- Identify all the SNMP devices with read/write permissions and provide read-only permissions to specific devices that do not require read/write permissions
+	- Avoid using the "NoAuthNoPriv" mode as it does not encrypt communications
+- **LDAP Enumeration Countermeasures**
+	- By default, LDAP traffic is transmitted unsecured; therefore, use Secure Sockets Layer (SSL) or STARTTLS technology to encrypt the traffic
+	- Select a username different from the email address and enable account lockout
+	- Restrict access to Active Directory (AD) by using software such as Citrix
+	- Use NT LAN Manager (NTLM), Kerberos, or any basic authentication mechanism to limit access to legitimate users
+	- Log access to Active Directory (AD) services
+	- Block users from accessing certain AD entities by changing the permissions on those objects/attributes
+	- Deploy canary accounts, which resemble real accounts, to mislead attackers
+	- Create decoy groups with the word "Admin" in the name to mislead attackers
+		- Attackers typically search for LDAP admin accounts
+- **NFS Enumeration Countermeasures**
+	- Implement proper permissions (read/write must be restricted to specific users) in exported file systems
+	- Implement firewall rules to block NFS port 2049
+	- Ensure proper configuration of files such as /etc/smb.conf, /etc/exports, and etc/hosts.allow to protect the data stored in the server
+	- Log the requests to access the file systems on the NFS server
+	- Keep the root_squash option in the /etc/exports file turned ON so that no requests made as root on the client are trusted
+	- Implement NFS tunneling through SSH to encrypt the NFS traffic over the network
+	- Implement the principle of least priveleges to mitigate threats such as data modification, data addition, and the modification of configuration files by normal users
+	- Ensure that users are not running usid and sgid on the exported file system
+	- Ensure that the NIS netgorup has a fully defined hostname to prevent the granitng of higher access to other hosts
+- **SMTP Enumeration Countermeasures**
+	- SMTP servers should be configured in the following manner:
+		- Ignore email messages to unknown recipients
+		- Exclude sensitive info on mail servers and local hosts in mail responses
+		- Disable the open relay feature
+		- Limit the number of accepted connections from a source to prevent brute force attacks
+		- Disable the EXPN, VRFY, and RCPT TO commands or restrict them to authentic users
+		- Ignore emails to unknown recipients by configuring SMTP servers
+		- Identify spammers through machine learning solutions
+		- Do not share internal IP/host information or mail relay system information
+- **SMB Enumeration Countermeasures**
+	- Common sharing services or ohter unused services may provide entry points for attackers to evade network security
+	- A network running SMB is at a high risk of enumeration
+	- Because web and DNS servers do not require this protocol, it is advisable to disable it on them
+	- The SMB protocol can be disabled by disabling the properies Client for Microsoft Networks and File and Printer Sharing for Microsoft Networks in Network and Dial-Up Connections
+	- On servers that are accessible from the Internet, also known as bastion hosts, SMB can be disabled by disabling the SMB protocol on bastion hosts without explicitly disabling it is to block the ports used by the SMB service. These are TCP ports 139 and 445
+	- Because disabling SMB services is not always a feasible option, other countermeasures against SMB enumeration may be required
+	- Windows Registry can be configured to limit anonymous access from the Internet to a specified set of files
+	- These files and folders are specified in the settings Network access: Named pipes that can be accessed anonymously and Network access: Shares that can be accessed anonymously
+	- This configuration involves adding the RestrictNullSessAccess parameter to the registry key as follows:
+	- HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/LanmanServer/Parameters
+	- The RestrictNullSessAccess parameter takes binary values, where 1 denotes enabled and 0 denotes disabled
+	- Setting this parameter to 1 or enabled restricts the access of anonymous users to the files specified in the network access settings
+	- The following are additional countermeasures for SMB enumeration:
+		- Ensure that Windows Firewall or similar endpoint protection systems are enabled on the system.
+		- Install the latest security patches for Windows and third-party software.
+		- Implement a proper authentication mechanism with a strong password policy.
+		- Implement strong permissions to keep the stored information safe.
+		- Perform regular audits of system logs.
+		- Perform active system monitoring to monitor the systems for any malicious incident.
+		- Implement secure VPNs to secure the organizational data during remote access.
+		- Employ file behavioral analysis systems such as next-generation firewalls (NGFWs) to observe traffic patterns and obtain timely analysis reports on SMB resources.
+		- Employ highly robust and secure monitoring systems such as global threat sensors for highly sensitive and top-secret data.
+		- Implement digitally signed data transmission and communication for accessing SMB resources
+		- Block/disable TCP ports 88, 139, and 445 and UDP ports 88, 137, and 138 to prevent SMB attacks.
+		- Enable public profile settings in the firewall system
+- **FTP Enumeration Countermeasures**
+	- Implement secure FTP (SFTP, which uses SSH) or FTP secure (FTPS, which uses SSL) to encrypt the FTP traffic over the network
+	- Implement strong passwords or a certification-based authentication policy
+	- Ensure that the unrestricted uploading of files on the FTP server is not allowed
+	- Disable anonymous FTP accounts. If this is not possible, monitor anonymous FTP accounts regularly
+	- Restrict access by IP or domain name to the FTP server
+	- Configure access controls on authenticated FTP accounts using access-control lists (ACLs)
+	- Restrict login attempts and time
+	- Configure ingress and egress filtering rules for the FTP services
+	- Do not run regular public services such as mail or the web on a single FTP server
+	- Implement a Markov game-based analysis model for vulnerabilty asessment and penetration testing (VAPT) on cloud-based FTP servers
+- **DNS Enumeration Countermeasures**
+	- Discussed below are various measures to prevent DNS enumeration
+		- Restrict resolver access: Ensure that the resolver can be accessed only by the hosts inside the network to prevent external cache poisoning
+		- Randomize source ports: Ensure that the request packets exiting the network use random ports, rather than UDP port 53. In addition, randomize the query IDs and change the alphabet case of domain names to defend against cache poisoning
+		- Audit DNS zones: Audit DNS zones to identify vulnerabilities in domains and subdomains and address DNS-related issues
+		- Patch known vulnerabilities: Update and patch nameservers with the most recent versions of software such as BIND and Microsoft DNS
+		- Monitor nameservers: Monitor the behavior of nameservers to identify malicious activities or unexpected behaviors at the earliest
+		- Restrict DNS zone transfers: Restrict DNS zone transfers to specific slave nameserver IP addresses because the zone transfer may include a master copy of the primary server's database. Disable DNS zone transfers to untrusted hosts
+		- Use different servers for authoritative and resolving functions: Separating the functions of the resolver and authoritative nameserver can reduce overload and prevent denial of service (DoS) attacks on domains
+		- Use isolated DNS servers: Avoid hosting teh application server along with the DNS server. Use an isolated and dedicated server fo rDNS services to minimize the risk of web application attacks
+		- Disable DNS recursion: Disable DNS recursion in the DNS server configuration to recursively restrict queries from other or third-party domains and mitigate DNS amplification and poisoning attacks
+		- Harden the OS: Harden the OS by closing unused ports and blocking unnecessary services
+		- Use VPN: Use a VPN for secure communication. In addition, change default passwords
+		- Implement two factor authentication: Enforce 2FA to provide sercure access when a DNS server is managed by a third party
+		- Use DNS change lock: Use change lock or client lock to restrict the alteration of DNs settings wihtout appropriate authorization
+		- Use DNSSEC: Implement DNSSEC as an additional layer of security for the DNS server to allow only digitally signed DNS requests and mitigate DNS hijacking
+		- Use premium DNS registration: use premium DNS registration services that hide sensitive info, such as host info, from the public
+	- Other countermeasures to defend against DNS enumeration are:
+		- Ensure that private hosts and their IP addresses are not published in the DNS zone files of the public DNS server
+		- Use standard network admin contacts for DNS registrations to avoid social engineering attacks
+		- Prune DNS zone files to avoid revealing unnecessary information
+		- Maintain independent internal and external DNS servers
+		- Ensure that old or unused DNS records are deleted periodically
+		- Restrict version.bind request queries using ACLs. Remove or run BIND with the least priveleges
+		- Use /etc/hosts file for the development or staging of subdomains instead of using DNS records
