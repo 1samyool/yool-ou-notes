@@ -1,4 +1,0 @@
-- Search for the target company's external URL in a search engine, such as Google or bing
-- Sub-domains provide an insight into different departments and business units in an organization
-- You may find a company's sub-domains by trail and error method or using a service such as [Netcraft](https://www.netcraft.com)
-- You can use the Sublist3r python script, which enumerates subdomains across mulitple sources at once
