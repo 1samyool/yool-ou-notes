@@ -1,5 +1,0 @@
-In this part you have seen how a small traditional web application is mapped to a cloud environment. What this mapping has shown is that every element in the traditional solution has a counterpart in a cloud solution. The crucial difference is that most of the hardware has been replaced by software equivalents. Servers become virtual machines, firewalls become security groups that control access to ports and users, routers are replaced by routing tables that can be reconfigured as required, and disk storage becomes a software volume delivered by a service.
-
-You have also gained some practical experience with OpenStack, which is mainstream and representative of the facilities that an IaaS platform provides.
-
-Don’t be put off by new concepts and terminology. The goal for this part was to get you thinking in broad terms about how the cloud functions. The details will become clearer when you put the concepts into practice later in the block.
