@@ -1,0 +1,4 @@
+- Host discovery techniques are used to identify the active/live systems in the network
+- Also known as 'ping sweeps'
+- ARP ping only happens on layer 2
+	- Can only ping within same subnet

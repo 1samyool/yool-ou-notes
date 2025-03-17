@@ -1,0 +1,9 @@
+- Lightweight directory access protocol (LDAP) is an Internet protocol for accessing distributed directory services
+	- Directory servcies may provide any organized set of records, often in a hierarchial and logical structure, such as corporate email directory
+	- A client starts a LDAP session by connecting to a directory system agent (DSA) on TCP port 389 and then sends an operation request to the DSA
+	- Info is transmitted between the client and server using basic encoding rules
+	- Attackers query the LDAP service to gather info , such as valid usernames, addresses, and departmental details
+- **LDAP Enumeration Tools**
+	- Softerra LDAP Administrator
+	- LDAPsearch
+	- AD Explorer

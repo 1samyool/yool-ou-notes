@@ -1,0 +1,17 @@
+- Port scanning techniques
+	- Categoirzed according to the type of protocol used for communication
+- TCP scanning
+	- Open TCP Scanning methods
+		- TCP connect / full open scan
+	- Stealth TCP Scanning methods
+		- Half open scan
+		- Inverse TCP flag scan
+			- Xmas Scan
+			- FIN scan
+			- NULL scan
+			- Maimon scan
+		- ACK flag probe scan
+			- TTL based scan
+			- Window scan
+	- Third party and spoofed TCP scanning methods
+- UDP scanning

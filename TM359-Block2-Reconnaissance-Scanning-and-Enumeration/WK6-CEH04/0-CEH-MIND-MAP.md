@@ -1,0 +1,1 @@
+![tm359_blk2_fig6_1.svg](../../../_resources/tm359_blk2_fig6_1.svg)

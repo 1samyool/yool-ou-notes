@@ -1,0 +1,20 @@
+- NTP is designed to synchronize the clocks of networked computers
+- It uses UDP port 123 as its primary means of communication
+- NTP can maintain time to within 10 milliseconds over the public internet
+- It can achieve accuracies of 200 microseconds or better in lcoal area networks under ideal conditions
+- Attackers query the NTP server to gather valuable info such as:
+	- List ofconnected hosts
+	- Clients IP addresses in a network, their system names, and OSs
+	- Internal IPs can also be obtained if the NTP server is in the DMZ
+- **NTP Enumeration Commands**
+	- ntptrace
+	- ntpdc
+	- ntpq
+- **NFS Enumeration**
+	- The NFS system is generally implemented on the computer network, where the centralization of data is required for critical resources
+	- NFS enumeration enables attackers to identify the exported directories, list of clients connected to the NFS server along with their IP addresses, and the shared data associated with the IP addresses
+- **NFS Enumeration Tools**
+	- RPCScan
+		- communicates with RPC services and checks misconfigrations on NFS shares
+	- SuperEnum
+		- includes a script that does the basic enumeration of any open port

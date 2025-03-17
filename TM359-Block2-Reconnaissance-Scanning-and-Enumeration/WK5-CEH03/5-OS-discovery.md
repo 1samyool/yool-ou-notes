@@ -1,0 +1,26 @@
+- Service version detection helps attackers to obtain inof about running services and their versions on a target system
+- Obtaining an accurate service version number allows attackers to determine the vulnerability of target system to particular exploits
+- In Zenmap, the -sV option is used to detect service versions
+- Banner grabbing or OS fingerprinting is the method used to determine the OS running on a remote target system
+- There are two types of banner grabbing:
+	- Active
+		- Specifically crafted packets are sent to the remote OS and the responses are noted
+		- The responses are then compared with a database to determine the OS
+		- Responses from different OS vary due to differences in the TCP/IP stack implementation
+	- Passive
+		- Banner grabbing from error messages
+			- Error messages provide info such as type of server, type of OS, and SSL tool used by the target remote system
+		- Sniffing network traffic
+			- Capturing and analyzing packets from the target enables an attacker to determine the OS used by the remote system
+		- Banner grabbing from page extensions
+			- Looking for an extension in the URL may assist in determining the applicaiton's versions
+				- Ex) .aspx => IIS server and Windows platform
+- Identifying the OS used on the target host allows an attacker to figure out the vulnerabilities posessed by the system and the exploits that might work on a system to further carry out additional attacks
+- **How to identify target system OS**
+	- Attackers can identify the OS running on the target machine by looking at the TTL and TCP window size in the IP header of the first packet in a TCP session
+	- Sniff / capture the response generated from the target machine using packet-sniffing tools like Wireshark and observe the TTL and TCP window size fields
+- **OS discovery using Nmap script engine**
+	- Nmap script engine (NSE) can be used to automate a wide variety of networking tasks by allowing the users to write and share scripts
+	- Attackers use various scripts in the Nmap script engine to perform OS discovery on the target machine
+	- For example, in Nmap, smb-os-discovery is an inbuilt script that can be used for collecting OS info on the target machine through the SMB protocol
+	- In Zenmap, the -sC option or -script otpion is used to activate the NSE scripts

@@ -1,0 +1,15 @@
+- CEH Methodology: 5 Stages
+	- Reconnaissance
+	- Scanning
+	- Gaining Access
+	- Maintaining Access
+	- Clearing Tracks
+- Two main types of footprinting
+	- Active
+	- Passive
+- Purpose of footprinting
+	- To gather as much info about a target as possible
+	- Help identify the system's components to attack
+	- For example:
+		- Identify the IP address structure for an external-facing service such as email, web, and DNS systems
+	

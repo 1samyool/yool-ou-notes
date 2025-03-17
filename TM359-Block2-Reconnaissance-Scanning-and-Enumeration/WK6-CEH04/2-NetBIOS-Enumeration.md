@@ -1,0 +1,115 @@
+07238C
+
+- NetBIOS is considered first for enumeration because it extracts a large amount of sensitive information about the target network, such as users and network shares
+	- The first step in enumerating a Windows system is to take advantage of the NetBIOS API
+	- NetBIOS was originally developed as an API for client software to access local area network (LAN) resources
+	- Windows uses NetBIOS for file and printer sharing
+	- The NetBIOS name is a unique 16-character ASCII string assigned to Windows systems to identify network devices over TCP/IP; 15 characters are used for the device name, and the 16th is reserved for the service or record type
+	- NetBIOS uses UDP port 137 (name services), UDP port 138 (datagram services), and TCP port 139 (session services)
+	- Attackers usually target the NetBIOS service because it is easy to exploit and run on Windows systems even when not in use
+- Attackers use NetBIOS enumeration to obtain the following:
+	- The lists of computers that belong to a domain
+	- The lists of shares on the individual hosts in a network
+	- Policies and passwords
+- An attacker who finds a Windows system with port 139 open can check to see whcih resources can be accessed or viewed on a remote system
+	- However, to enumerate the NetBIOS names, the remote system must have enabled file and printer sharing
+	- NetBIOS enumeration may allow an attacker to read or write to a remote computer system, depending on the availability of shares, or launch a DoS attack
+	- ![fdsafadfafa.JPG](../../../_resources/fdsafadfafa.JPG)
+	- Note that Microsoft does not support NetBIOS name resolution for IPv6
+- **Nbtstat Utility**
+	- Nbtstat is a Windows utility that helps in troubleshooting NETBIOS name resolution problems
+	- The nbtstat command removes and corrects preloaded entries using case-sensitive switches
+	- Attackers use nbtstat to enumerate information such as NetBIOS over TCP/IP (NetBT), protocol statistics, NetBIOS name tables for both local and remote computers, and the NetBIOS name cache
+	- The syntax of the nbtstat command is as follows:
+					`nbtstat [-a RemoteName} {-A IP Address] [-c] [-n] [-r] [-R] [-RR] [-s] [Interval]`
+	- Table shown below lists various Nbtstat parameters and their respective functions:
+	-  ![afdadfafaafda.JPG](../../../_resources/afdadfafaafda.JPG)
+	-  ![fasdfafafa.JPG](../../../_resources/fasdfafafa.JPG)
+	-  The following are some examples for nbtstat commands
+		-  `nbtstat -a <IP address of the remote machine>` can be exectuted to obtain the NetBIOS name of a remote computer
+		-  `nbtstat -c` can be exectued to obtain the contents of the NetBIOS name cache, the table of NetBIOS names, and their resolved IP addresses
+-  **NetBIOS Enumeration Tools**
+	-  NetBIOS enumeration tools explore and scan a network within a given range of IP addresses and lists of computers to identify security loopholes or flaws in networked systems
+	-  These tools also enumerate operating systems, users, groups, SIDs, password policies, services, service packs and hotfixes, NetBIOS shares, transports, sessions, disks, and security event logs, etc.
+		-  NetBIOS enumerator
+			-  NetBIOS enumerator is an enumeration tool that shows how to use remote network support and to deal with some other web porotocls, such as SMB
+			-  Attackers use NetBIOS enumerator to enumerate details such as NetBIOS names, usernames, domain names, and media access control (MAC) addresses for a given range of IP addresses
+		-  Nmap
+			-  Attackers use the nmap scripting engine (NSE) for disovering NetBIOS shares on a network
+			-  The NSE nbstat script allows attackers to retrieve the target's NetBIOS names and MAC addreses
+			-  By default, the script displays the name of the computer and the logged-in user
+			-  However, if the verbosity is turned up, it displays all names related to that system
+			-  An attacker uses the following nmap command to perform NetBIOS enumeration on a target host:
+				-  `nmap -sV -v --script nbstat.nse <target IP address>`
+		-  The following are some additional NetBIOS enumeration tools:
+			-  Global Network Inventory
+			-  Advanced IP Scanner
+			-  Hyena
+			-  Nsauditor Network Security Auditor
+-  **Enumerating User Accounts**
+	-  Enumerating user accounts using the PsTools suite helps in controlling and managing remote systems from the command line
+	-  The following are some commands for enumerating user accounts
+		-  PsExec
+			-  PsExec is a lightweight Telnet replacement that can execute processes on other systems, complete with full interactivity for console applications, without having to install client software manually.
+			-  PsExec's most powerful use case is the launch of interactive command prompts on remote systems and remote-enabling tools such as ipconfig that otherwise cannot show information about remote systems
+			-  The syntax of PsExec command is:
+			-  `psexec [//computer[,computer2[,...] | @file]] [-u user [-p psswd] [-n     s] [-r   servicename] [-h] [-l] [-s|-e}[-x] [-i   [session]] [-c executable [-f|-v]] [-w directory] [-d] [-<priority>] [-a n,n,...] cmd [arguments]`
+		-  PsFile
+			- Command line utility that shows a list of files on a system that opened remotely, and it can close opened files either by name or by a file identifier
+			- The default behavior of PsFile is to list the files on the local system opened by remote systems
+			- Typing a command followed by - displays info on the syntax for that command
+			- The syntax of the PsFile command is:
+			- `psfile [\\RemoteComputer [-u Username [-p Password]]] [[Id | path] [-c]]`
+		- PsGetSid
+			- Translates SIDs to their display name and vice versa
+			- It works on built in accounts, domain accounts, and local accounts
+			- It also displays the SIDs of user accounts and translates an SID into the name that represents it
+			- It works across the network to query SIDs remotely
+			- The syntax of the PsGetSid command is as follows:
+			- `psgetsid [\\computer[,computer[,...] | @file] [-u username [-p password]]] [account|SID]`
+		- PsKill
+			- Kill utility that can kill processes on remote systems and terminate process on the local computer
+			- Running PsKill with a process ID directs it to kill the process of that ID on the local computer
+			- If a process name is specified, PsKill will kill all processes that have that name
+			- One need not install a client on the target computer to use PsKill to terminate a remote process
+			- The syntax of PsKill command is:
+			- `pskill [-] [-t] [\\computer [-u username] [-p password]] <process name | process id>`
+		- PsInfo
+			- Command line tool that gathers key info about local or remote legacy Window systems, including the type of installation, kernel build, registered organization and owner, number of processors and their type, amount of physical memory, installation date of the system, and expiration date in the case of a trial version
+			- By default, PsInfo shows info for the local system
+			- A remote computer name can be specfied to obtain info for a remote system
+		- PsList
+			- Command line tool that displays CPU and memory info or thread statistics
+			- Tools in the Resource kits, ptstat, and pmon, show different types of data only for the processes on the system on which the tools are run
+		- PsLoggedOn
+			- Applet that displays both the locall logged-in users and users logged in via resources for either the local computer or a remote one
+			- If a username is specified instead of a computer, PsLoggedOn searches the computers in the network neighborhood and reveals if the user currently is logged in.
+			- PsLoggedOn defines a locally logged-in user is one that has profile loaded into the registry
+			- Therefore, PsLoggedOn determines who is logged in by scanning the keys under the HKEY_USERS key
+			- For each key that has a name or user SID, PsLoggedOn looks up the corresponding username and displays it
+			- To determine who logged into a computer via resource shares, PsLoggedOn uses the NetSessionEnum API
+			- The syntax of the PsLoggedOn command is:
+			- `psloggedon [- ] [-l] [-x] [//computername | username]`
+		- PsLogList
+			- The elogdump utility dumps the contents of an event log on a local or remote computer
+			- PsLogList is a clone of elogdump except that PsLogList can log in to remote systems in situations where the user's security credentials would not permit access to the event log, and PsLogList retrieves message strings from the computer on which the event log is stored
+			- The default function of PsLogList is to display the contents of the system event log on the local computer with visually friendly formatting
+		- PsPsswd
+			- Can change an account password on local or remote systems, and administrators can create batch files that run PsPsswd on the computers they manage to perform a mass change of the adminstrator password
+			- PsPsswd uses Windows password reset APIs; therefore, it does not send passwords over the network in the cleartext
+		- PsShutdown
+			- PsShutdown can shut down or reboot a local or remote computer
+			- It requires no manual installation of client software
+- **Enumerating Shared Resources Using Net View**
+	- Net view is a command line utility that displays a list of computers in a specified workgroup or shared resources available on a specified computer
+	- It can be used in the following ways;
+		- net view //<computername>
+		- net view \\<computername> /ALL
+		- net view /domain
+		- net view /domain:<domain name>
+		- 
+
+
+
+
+
