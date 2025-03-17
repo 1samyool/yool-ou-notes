@@ -1,1 +1,0 @@
-[tm359_25b_blk1_fig3_1.pdf](../../../_resources/tm359_25b_blk1_fig3_1.pdf)
