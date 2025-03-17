@@ -1,0 +1,26 @@
+- Recently in the UK there was a refrendum and one of the concerns for some political parties was that there was a large number of people who were not registered to vote
+	- Politicians emphazised how important it was to register and the result was that the website for online registration crashed
+	- Emergency legislation had to be brought in to extend the deadline for 24 hours
+	- This is an example of IT infrastructure failure due to the pressure of workload
+	- There have been several other high profile cases in the past and of course other such events of lesser profile that are not reported
+- Why does this happen at the technical level?
+	- Usually appears that such fallures are down to timeouts
+	- The increasing workload increases response times so that the HTTP-request-response cycle is broken
+	- The server may reply eventually, but by then the client browser has given up waiting and reported an error
+	- The error reported can be quite inaccurate, such as 'server not found', which is entirely false
+	- The timeout may occur in other areas of the application
+		- For example, registering someone to vote will involve entering data into a back end database
+	- This write operation may also timeout under pressure of volume
+	- Another source of failure can be that as resources on the server become exhausted, the application just fails
+		- For example, an application that needs to grab a certain amount of real memory can throw an error and fail if the memory is not available when it is requested
+- When a web server comes under an increasing load, its response time will degrade
+	- As that happens, and before it comes critical, it would make sense to put more resources on line to service the demand as it increases and to maintian the quality of service to users
+	- There are different ways to provide greater resources
+	- One way is to add more power to the server machine: more CPUs, more memory. This is called **vertical scalling**
+	- This has some drawbacks as usually the machine has to be stopped and reconfigured when it is expanded, and there are hard limits to how far a machine can be extended
+	- Another approach is to add anohter machine and share the load betweent the existing servers and the new additional machine. This is called **horizontal scaling**
+	- In the past, organizations have been sometimes reluctant to have a set of resources on standby for which, under normal condiitons, there is little justification
+	- Many organizations have in the past been willng to accept that in some circumstances when there is unusual demand that their infrastructure will fail.
+	- They then have taken the option that whilst the infrastructure failed, it was under extraordinary circumstances and so they have an explanation for users
+- Today, the climate has changed somewhat. There are many more users on the web and they are more demanding. If a website fails, then usrs will usually go elsewhere if alternatives exist. There is also a potential to use cloud resources and the 'pay for use' model to restrict the cost of having sizable infrastructure on call
+  

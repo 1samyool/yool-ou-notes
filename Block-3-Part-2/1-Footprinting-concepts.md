@@ -1,0 +1,43 @@
+- Footprinting
+	- first step of any attack on information systems
+	- attacker collects info about a target network
+	- helps identify various ways to intrude into the system
+- Types of footprinting
+	- Active
+		- Gathering info about target without direct interaction
+	- Passive
+		- Gathering info about target wtih direct interaction
+		- Also known as open source intelligence gathering
+		- Usually info gathered my public sources
+- Info obtained in footprinting
+	- Organisational info
+		- Employee details
+		- Telephone numbers
+		- Branch and location details
+		- Background of the org
+		- Web technologies
+	- Network info
+		- Domain and subdomains
+		- Network blocks
+		- Network topology, trusted routers, and firewalls
+		- IP addresses of the reachable systems
+		- Whois records
+		- DNS records
+	- System info
+		- Web server OS
+		- Location of web servers
+		- Publicy available email addresses
+		- Usernames and passwords
+- Objectives of footprinting
+	- Knowledge of the security posture
+	- Reduction of focus area
+	- Identifying vulnerabilities
+- Footprinting threats
+	- Social engineering
+	- System and network attacks
+	- Information leak
+	- Privacy loss
+	- Corporate espionage
+	- Business loss
+- Footprinting Methodology
+	- 

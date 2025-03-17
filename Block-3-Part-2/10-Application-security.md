@@ -1,0 +1,7 @@
+- Pen testing is quite a wide area as it encompasses many aspects that might surprise you
+- In many papers there is quite a narrow view which focuses on aspects such as application testing in terms of detecting vulnerabilites using, for example cross-site scripting and injection
+- There are many tools that can be used to assist in pen testing of web applications these generally make it possible to explore an application and autmatically submit a variety of requests which probe the application for vulnerabilities
+- For example:
+	- A tool can be given a basic URL
+	- It will then generate a large set of requests with different parameters attached
+	- The tool may perform some examination of analysis of the responses and present a report highlighting potential problems

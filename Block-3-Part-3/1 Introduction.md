@@ -1,0 +1,4 @@
+- This part focuses on a more advanced aspect called 'autoscaling' and the concepts and techniques behind it
+- First look at how autoscaling is supported in OpenStack by an approach to managing resources called 'orchestration' and the specific means of orchestrating resources using what is called a 'stack' written in the YAML language
+- This part we will be using some YAML templates that use the Heat Orchestration Template language
+- 
