@@ -1,6 +1,0 @@
-- Nmap
-	- Network admins can use Nmapp for inventorying a network, managing service upgrade schedules, and monitoring host or service uptime
-	- Attackers use Nmap to extract information such as live hosts on the network, open ports, services (application name and version), types of packet filters / firewalls, as well as operating systems and versions used
-- Hping3
-	- Command line network scanning and packet crafting tool for the TCP/IP protocol
-	- It can be used for network security auditing, firewall testing, etc
